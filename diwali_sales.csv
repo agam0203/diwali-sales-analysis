@@ -1,0 +1,1001 @@
+Customer_ID,Gender,Age_Group,State,Marital_Status,Occupation,Product_Category,Orders,Amount,Rating,Total_Revenue
+CID0001,Male,18-25,Maharashtra,Married,Student,Food & Sweets,3,970.0,5,2910.0
+CID0002,Female,26-35,Maharashtra,Married,Homemaker,Toys & Games,1,1010.0,4,1010.0
+CID0003,Female,46-55,Tamil Nadu,Unmarried,Homemaker,Clothing,3,3490.0,5,10470.0
+CID0004,Female,36-45,Maharashtra,Married,IT Professional,Food & Sweets,3,950.0,4,2850.0
+CID0005,Male,46-55,Maharashtra,Unmarried,IT Professional,Food & Sweets,1,660.0,4,660.0
+CID0006,Male,36-45,Rajasthan,Married,Govt Employee,Jewellery,5,11760.0,4,58800.0
+CID0007,Male,36-45,Delhi,Unmarried,Govt Employee,Beauty & Personal Care,3,1670.0,5,5010.0
+CID0008,Female,46-55,Rajasthan,Unmarried,Business Owner,Electronics,1,11370.0,4,11370.0
+CID0009,Female,26-35,Uttar Pradesh,Married,Student,Food & Sweets,5,960.0,5,4800.0
+CID0010,Female,26-35,Karnataka,Married,IT Professional,Electronics,3,13540.0,4,40620.0
+CID0011,Male,26-35,Uttar Pradesh,Married,IT Professional,Home Decor,5,4700.0,4,23500.0
+CID0012,Female,55+,Uttar Pradesh,Unmarried,Govt Employee,Clothing,4,3390.0,5,13560.0
+CID0013,Female,55+,Tamil Nadu,Married,Student,Clothing,4,3710.0,5,14840.0
+CID0014,Male,18-25,Uttar Pradesh,Unmarried,IT Professional,Clothing,5,2750.0,5,13750.0
+CID0015,Male,36-45,Karnataka,Married,Student,Food & Sweets,3,850.0,4,2550.0
+CID0016,Male,55+,Delhi,Married,Govt Employee,Clothing,1,3260.0,3,3260.0
+CID0017,Male,18-25,Delhi,Married,Healthcare,Toys & Games,2,970.0,5,1940.0
+CID0018,Male,36-45,Tamil Nadu,Married,Healthcare,Clothing,1,2840.0,5,2840.0
+CID0019,Male,46-55,Uttar Pradesh,Married,Govt Employee,Electronics,2,17050.0,4,34100.0
+CID0020,Male,18-25,Gujarat,Unmarried,Govt Employee,Toys & Games,2,930.0,4,1860.0
+CID0021,Female,36-45,Madhya Pradesh,Unmarried,Business Owner,Clothing,3,2590.0,5,7770.0
+CID0022,Male,26-35,Karnataka,Married,Govt Employee,Home Decor,5,4840.0,4,24200.0
+CID0023,Male,55+,Madhya Pradesh,Unmarried,Student,Food & Sweets,1,1110.0,5,1110.0
+CID0024,Male,55+,Uttar Pradesh,Unmarried,Healthcare,Clothing,5,1950.0,4,9750.0
+CID0025,Male,55+,Delhi,Unmarried,Student,Electronics,4,11590.0,4,46360.0
+CID0026,Female,26-35,Maharashtra,Married,Healthcare,Clothing,3,2280.0,5,6840.0
+CID0027,Male,46-55,Rajasthan,Married,Govt Employee,Beauty & Personal Care,3,2100.0,4,6300.0
+CID0028,Male,46-55,Punjab,Married,IT Professional,Food & Sweets,4,640.0,4,2560.0
+CID0029,Female,26-35,Maharashtra,Unmarried,Homemaker,Food & Sweets,1,1020.0,5,1020.0
+CID0030,Male,46-55,Gujarat,Married,Govt Employee,Food & Sweets,4,620.0,4,2480.0
+CID0031,Female,18-25,Maharashtra,Married,Student,Electronics,1,17980.0,4,17980.0
+CID0032,Male,36-45,Karnataka,Married,Govt Employee,Clothing,2,2460.0,5,4920.0
+CID0033,Male,26-35,Delhi,Married,IT Professional,Toys & Games,3,1600.0,4,4800.0
+CID0034,Female,18-25,Punjab,Unmarried,Teacher,Electronics,1,13300.0,4,13300.0
+CID0035,Female,18-25,Gujarat,Married,IT Professional,Clothing,5,3030.0,4,15150.0
+CID0036,Female,36-45,Delhi,Married,Teacher,Clothing,5,2220.0,4,11100.0
+CID0037,Male,26-35,Uttar Pradesh,Unmarried,Teacher,Home Decor,3,4450.0,5,13350.0
+CID0038,Male,36-45,Uttar Pradesh,Unmarried,Homemaker,Sports,4,4200.0,5,16800.0
+CID0039,Female,18-25,Maharashtra,Unmarried,Student,Electronics,4,12020.0,3,48080.0
+CID0040,Male,26-35,Maharashtra,Unmarried,Student,Home Decor,1,4880.0,5,4880.0
+CID0041,Male,26-35,Tamil Nadu,Unmarried,Healthcare,Electronics,4,17620.0,5,70480.0
+CID0042,Male,36-45,Karnataka,Married,Govt Employee,Sports,3,2410.0,4,7230.0
+CID0043,Male,26-35,Karnataka,Married,Business Owner,Electronics,1,15630.0,5,15630.0
+CID0044,Female,36-45,Uttar Pradesh,Unmarried,Student,Clothing,2,2070.0,4,4140.0
+CID0045,Male,46-55,Tamil Nadu,Unmarried,Business Owner,Toys & Games,4,1510.0,5,6040.0
+CID0046,Female,36-45,Rajasthan,Unmarried,Business Owner,Toys & Games,4,1570.0,5,6280.0
+CID0047,Male,26-35,Uttar Pradesh,Married,Govt Employee,Home Decor,1,2750.0,4,2750.0
+CID0048,Male,18-25,Rajasthan,Married,Student,Clothing,5,2760.0,4,13800.0
+CID0049,Male,46-55,Karnataka,Married,Healthcare,Clothing,4,3380.0,4,13520.0
+CID0050,Male,18-25,Uttar Pradesh,Married,IT Professional,Clothing,3,3620.0,4,10860.0
+CID0051,Female,46-55,Delhi,Married,Teacher,Electronics,4,16660.0,3,66640.0
+CID0052,Female,26-35,Karnataka,Unmarried,Student,Home Decor,2,5110.0,5,10220.0
+CID0053,Female,55+,Uttar Pradesh,Married,Healthcare,Clothing,4,2820.0,3,11280.0
+CID0054,Female,36-45,Madhya Pradesh,Married,Business Owner,Clothing,5,2540.0,4,12700.0
+CID0055,Female,55+,West Bengal,Married,Homemaker,Food & Sweets,4,1100.0,5,4400.0
+CID0056,Female,26-35,Gujarat,Unmarried,IT Professional,Sports,1,3280.0,4,3280.0
+CID0057,Male,36-45,Delhi,Married,Homemaker,Food & Sweets,4,860.0,5,3440.0
+CID0058,Male,26-35,Delhi,Married,IT Professional,Electronics,5,16380.0,5,81900.0
+CID0059,Male,26-35,Gujarat,Married,Healthcare,Electronics,1,20660.0,4,20660.0
+CID0060,Male,36-45,Karnataka,Married,Teacher,Sports,3,4100.0,4,12300.0
+CID0061,Male,46-55,Uttar Pradesh,Unmarried,Govt Employee,Clothing,1,2560.0,4,2560.0
+CID0062,Male,55+,Karnataka,Unmarried,IT Professional,Electronics,2,14500.0,5,29000.0
+CID0063,Female,36-45,West Bengal,Married,Homemaker,Food & Sweets,1,870.0,3,870.0
+CID0064,Male,26-35,Delhi,Married,Govt Employee,Food & Sweets,3,930.0,5,2790.0
+CID0065,Male,26-35,Uttar Pradesh,Unmarried,Healthcare,Food & Sweets,4,710.0,5,2840.0
+CID0066,Male,36-45,West Bengal,Married,IT Professional,Clothing,1,3340.0,4,3340.0
+CID0067,Male,26-35,Maharashtra,Married,IT Professional,Electronics,1,16340.0,5,16340.0
+CID0068,Female,18-25,Maharashtra,Married,Teacher,Sports,1,2900.0,3,2900.0
+CID0069,Male,26-35,Uttar Pradesh,Unmarried,Student,Clothing,1,1960.0,5,1960.0
+CID0070,Female,26-35,Maharashtra,Married,Healthcare,Food & Sweets,3,710.0,3,2130.0
+CID0071,Female,26-35,Rajasthan,Married,Govt Employee,Toys & Games,5,1750.0,5,8750.0
+CID0072,Male,26-35,Karnataka,Unmarried,Student,Food & Sweets,5,760.0,4,3800.0
+CID0073,Male,18-25,Maharashtra,Married,Student,Clothing,1,2090.0,5,2090.0
+CID0074,Female,18-25,Tamil Nadu,Married,Student,Clothing,3,2670.0,4,8010.0
+CID0075,Female,55+,Tamil Nadu,Unmarried,Student,Food & Sweets,3,760.0,3,2280.0
+CID0076,Female,26-35,Tamil Nadu,Married,Student,Jewellery,1,5830.0,4,5830.0
+CID0077,Female,26-35,Maharashtra,Unmarried,Business Owner,Beauty & Personal Care,2,1440.0,4,2880.0
+CID0078,Male,36-45,Delhi,Married,Govt Employee,Electronics,1,17030.0,5,17030.0
+CID0079,Male,26-35,Punjab,Married,Homemaker,Electronics,2,17120.0,5,34240.0
+CID0080,Male,55+,Rajasthan,Married,Govt Employee,Beauty & Personal Care,1,1480.0,4,1480.0
+CID0081,Female,36-45,Uttar Pradesh,Married,Student,Toys & Games,2,1270.0,4,2540.0
+CID0082,Female,18-25,Uttar Pradesh,Married,Govt Employee,Beauty & Personal Care,2,2210.0,3,4420.0
+CID0083,Male,26-35,Delhi,Unmarried,Student,Electronics,1,15030.0,4,15030.0
+CID0084,Male,46-55,Tamil Nadu,Married,Homemaker,Food & Sweets,2,730.0,4,1460.0
+CID0085,Male,55+,Karnataka,Married,IT Professional,Toys & Games,4,1070.0,4,4280.0
+CID0086,Male,26-35,Karnataka,Married,IT Professional,Food & Sweets,5,850.0,4,4250.0
+CID0087,Female,36-45,Uttar Pradesh,Unmarried,IT Professional,Clothing,3,3270.0,4,9810.0
+CID0088,Female,18-25,Gujarat,Married,Student,Electronics,2,12970.0,5,25940.0
+CID0089,Female,55+,West Bengal,Married,Healthcare,Food & Sweets,2,1010.0,4,2020.0
+CID0090,Male,26-35,Delhi,Married,IT Professional,Clothing,3,1790.0,4,5370.0
+CID0091,Male,55+,Rajasthan,Married,Homemaker,Home Decor,2,3620.0,5,7240.0
+CID0092,Female,36-45,Madhya Pradesh,Married,Govt Employee,Sports,3,3960.0,5,11880.0
+CID0093,Female,36-45,Maharashtra,Unmarried,Business Owner,Clothing,1,2430.0,4,2430.0
+CID0094,Female,26-35,Karnataka,Married,Teacher,Jewellery,4,9210.0,5,36840.0
+CID0095,Female,26-35,Maharashtra,Married,Govt Employee,Electronics,4,12960.0,5,51840.0
+CID0096,Male,18-25,West Bengal,Married,Business Owner,Food & Sweets,5,1030.0,3,5150.0
+CID0097,Male,26-35,Karnataka,Unmarried,IT Professional,Sports,2,2230.0,4,4460.0
+CID0098,Male,18-25,Gujarat,Married,IT Professional,Electronics,5,20730.0,4,103650.0
+CID0099,Male,36-45,West Bengal,Married,Govt Employee,Electronics,1,12880.0,4,12880.0
+CID0100,Male,26-35,Delhi,Married,IT Professional,Home Decor,4,4900.0,4,19600.0
+CID0101,Male,18-25,Tamil Nadu,Married,Student,Electronics,1,14730.0,5,14730.0
+CID0102,Female,55+,Karnataka,Married,Business Owner,Toys & Games,1,1530.0,3,1530.0
+CID0103,Male,46-55,Uttar Pradesh,Married,Business Owner,Beauty & Personal Care,2,1430.0,4,2860.0
+CID0104,Male,55+,Gujarat,Married,IT Professional,Home Decor,1,4990.0,4,4990.0
+CID0105,Female,55+,West Bengal,Married,Govt Employee,Clothing,4,2000.0,4,8000.0
+CID0106,Male,18-25,Maharashtra,Married,Student,Home Decor,5,2950.0,5,14750.0
+CID0107,Male,26-35,Tamil Nadu,Married,Teacher,Toys & Games,4,1310.0,4,5240.0
+CID0108,Female,36-45,Tamil Nadu,Married,IT Professional,Electronics,2,11480.0,5,22960.0
+CID0109,Male,36-45,Maharashtra,Unmarried,Healthcare,Food & Sweets,4,690.0,4,2760.0
+CID0110,Male,18-25,Punjab,Unmarried,Student,Food & Sweets,3,1160.0,4,3480.0
+CID0111,Male,46-55,Uttar Pradesh,Unmarried,Student,Food & Sweets,5,1180.0,5,5900.0
+CID0112,Male,26-35,Maharashtra,Unmarried,Business Owner,Clothing,3,2500.0,4,7500.0
+CID0113,Female,26-35,Maharashtra,Unmarried,IT Professional,Toys & Games,3,1730.0,3,5190.0
+CID0114,Female,26-35,Tamil Nadu,Unmarried,IT Professional,Electronics,2,17040.0,5,34080.0
+CID0115,Female,36-45,Gujarat,Married,Student,Electronics,1,13740.0,4,13740.0
+CID0116,Female,36-45,Uttar Pradesh,Unmarried,Govt Employee,Jewellery,3,10100.0,5,30300.0
+CID0117,Female,18-25,Delhi,Married,Healthcare,Toys & Games,4,1470.0,5,5880.0
+CID0118,Male,46-55,Gujarat,Married,Business Owner,Electronics,1,22370.0,4,22370.0
+CID0119,Female,26-35,Uttar Pradesh,Unmarried,IT Professional,Clothing,4,2280.0,4,9120.0
+CID0120,Male,18-25,Tamil Nadu,Married,Homemaker,Electronics,4,18560.0,4,74240.0
+CID0121,Female,46-55,West Bengal,Married,Govt Employee,Clothing,1,1850.0,4,1850.0
+CID0122,Female,55+,Karnataka,Unmarried,Business Owner,Clothing,1,1980.0,5,1980.0
+CID0123,Male,46-55,Madhya Pradesh,Married,Student,Electronics,4,10550.0,5,42200.0
+CID0124,Male,46-55,Delhi,Married,Healthcare,Home Decor,2,5250.0,4,10500.0
+CID0125,Male,36-45,Punjab,Unmarried,Homemaker,Toys & Games,5,1610.0,3,8050.0
+CID0126,Male,36-45,Gujarat,Unmarried,Student,Food & Sweets,5,1060.0,4,5300.0
+CID0127,Female,18-25,Gujarat,Married,Student,Food & Sweets,2,890.0,4,1780.0
+CID0128,Female,26-35,Uttar Pradesh,Married,Teacher,Electronics,1,14100.0,5,14100.0
+CID0129,Male,26-35,Tamil Nadu,Married,Govt Employee,Sports,4,2460.0,3,9840.0
+CID0130,Male,26-35,Delhi,Unmarried,IT Professional,Jewellery,5,7420.0,5,37100.0
+CID0131,Male,36-45,Uttar Pradesh,Married,Govt Employee,Jewellery,4,8010.0,5,32040.0
+CID0132,Male,26-35,Uttar Pradesh,Married,IT Professional,Jewellery,2,10440.0,5,20880.0
+CID0133,Male,18-25,Karnataka,Married,Student,Beauty & Personal Care,4,1700.0,4,6800.0
+CID0134,Male,26-35,Karnataka,Married,Student,Home Decor,2,2670.0,5,5340.0
+CID0135,Female,36-45,Rajasthan,Unmarried,Student,Electronics,1,10720.0,5,10720.0
+CID0136,Male,18-25,Tamil Nadu,Married,IT Professional,Food & Sweets,2,630.0,5,1260.0
+CID0137,Male,46-55,Uttar Pradesh,Unmarried,Homemaker,Toys & Games,2,1230.0,4,2460.0
+CID0138,Female,26-35,Rajasthan,Married,Govt Employee,Toys & Games,5,1740.0,4,8700.0
+CID0139,Male,26-35,Maharashtra,Unmarried,Student,Home Decor,4,4230.0,5,16920.0
+CID0140,Female,36-45,Tamil Nadu,Unmarried,Business Owner,Electronics,5,20120.0,3,100600.0
+CID0141,Female,46-55,West Bengal,Married,Govt Employee,Clothing,3,2680.0,4,8040.0
+CID0142,Male,26-35,Karnataka,Married,IT Professional,Beauty & Personal Care,2,1480.0,5,2960.0
+CID0143,Male,36-45,Rajasthan,Married,IT Professional,Food & Sweets,3,630.0,3,1890.0
+CID0144,Male,36-45,Maharashtra,Unmarried,Healthcare,Home Decor,5,4900.0,4,24500.0
+CID0145,Male,26-35,Delhi,Married,Healthcare,Clothing,4,3320.0,4,13280.0
+CID0146,Male,46-55,West Bengal,Unmarried,Student,Clothing,5,2090.0,5,10450.0
+CID0147,Female,36-45,Delhi,Unmarried,IT Professional,Beauty & Personal Care,4,1660.0,3,6640.0
+CID0148,Male,36-45,Delhi,Unmarried,Business Owner,Food & Sweets,4,870.0,5,3480.0
+CID0149,Male,46-55,Karnataka,Unmarried,Homemaker,Toys & Games,1,1440.0,3,1440.0
+CID0150,Male,46-55,West Bengal,Married,Homemaker,Home Decor,2,5100.0,3,10200.0
+CID0151,Female,36-45,Maharashtra,Married,IT Professional,Food & Sweets,5,930.0,5,4650.0
+CID0152,Male,46-55,Uttar Pradesh,Married,IT Professional,Clothing,4,2830.0,4,11320.0
+CID0153,Male,36-45,Rajasthan,Unmarried,Homemaker,Toys & Games,5,890.0,5,4450.0
+CID0154,Male,36-45,West Bengal,Unmarried,Govt Employee,Home Decor,5,2630.0,3,13150.0
+CID0155,Female,36-45,Uttar Pradesh,Unmarried,Govt Employee,Home Decor,4,2970.0,4,11880.0
+CID0156,Male,36-45,Maharashtra,Married,IT Professional,Food & Sweets,3,580.0,3,1740.0
+CID0157,Female,18-25,Uttar Pradesh,Married,Business Owner,Beauty & Personal Care,2,1940.0,4,3880.0
+CID0158,Female,46-55,Delhi,Unmarried,Healthcare,Electronics,2,19180.0,5,38360.0
+CID0159,Male,46-55,Delhi,Married,Teacher,Jewellery,1,6470.0,5,6470.0
+CID0160,Female,18-25,Rajasthan,Married,Student,Clothing,1,3420.0,3,3420.0
+CID0161,Male,46-55,Gujarat,Unmarried,Business Owner,Home Decor,1,2880.0,4,2880.0
+CID0162,Female,18-25,Gujarat,Married,IT Professional,Electronics,2,14110.0,5,28220.0
+CID0163,Female,26-35,Delhi,Married,Business Owner,Clothing,3,2250.0,4,6750.0
+CID0164,Male,36-45,West Bengal,Married,Govt Employee,Home Decor,2,3490.0,3,6980.0
+CID0165,Male,18-25,Delhi,Married,Student,Electronics,2,13560.0,5,27120.0
+CID0166,Female,46-55,Punjab,Unmarried,Govt Employee,Home Decor,2,3820.0,5,7640.0
+CID0167,Male,46-55,Gujarat,Married,Govt Employee,Beauty & Personal Care,2,1540.0,5,3080.0
+CID0168,Male,26-35,Uttar Pradesh,Married,IT Professional,Electronics,3,22340.0,5,67020.0
+CID0169,Male,18-25,Gujarat,Married,Govt Employee,Toys & Games,1,890.0,5,890.0
+CID0170,Female,26-35,Maharashtra,Unmarried,IT Professional,Clothing,5,2030.0,4,10150.0
+CID0171,Female,36-45,Gujarat,Married,IT Professional,Food & Sweets,1,590.0,4,590.0
+CID0172,Male,55+,Uttar Pradesh,Married,Teacher,Clothing,1,3000.0,3,3000.0
+CID0173,Male,36-45,Uttar Pradesh,Married,Business Owner,Electronics,5,11150.0,5,55750.0
+CID0174,Male,26-35,Tamil Nadu,Married,Business Owner,Electronics,2,20540.0,5,41080.0
+CID0175,Female,36-45,Maharashtra,Married,Healthcare,Electronics,3,16640.0,5,49920.0
+CID0176,Male,26-35,West Bengal,Unmarried,Teacher,Electronics,3,16820.0,5,50460.0
+CID0177,Female,36-45,Maharashtra,Unmarried,Student,Food & Sweets,1,920.0,5,920.0
+CID0178,Male,18-25,Gujarat,Married,Homemaker,Beauty & Personal Care,5,1250.0,5,6250.0
+CID0179,Female,36-45,Gujarat,Married,Govt Employee,Jewellery,4,6870.0,4,27480.0
+CID0180,Male,26-35,Karnataka,Unmarried,Govt Employee,Food & Sweets,2,760.0,5,1520.0
+CID0181,Male,55+,Maharashtra,Married,Business Owner,Electronics,1,17620.0,4,17620.0
+CID0182,Male,26-35,Maharashtra,Unmarried,Student,Clothing,3,2170.0,4,6510.0
+CID0183,Female,36-45,Uttar Pradesh,Married,Student,Clothing,5,1980.0,5,9900.0
+CID0184,Female,55+,Maharashtra,Unmarried,Govt Employee,Clothing,5,3690.0,5,18450.0
+CID0185,Male,18-25,Gujarat,Unmarried,IT Professional,Home Decor,1,2510.0,3,2510.0
+CID0186,Female,55+,Madhya Pradesh,Unmarried,Student,Home Decor,4,4700.0,3,18800.0
+CID0187,Female,36-45,Tamil Nadu,Unmarried,IT Professional,Clothing,3,3330.0,5,9990.0
+CID0188,Female,18-25,Rajasthan,Married,Student,Clothing,1,2340.0,5,2340.0
+CID0189,Male,26-35,West Bengal,Unmarried,Student,Jewellery,4,6470.0,5,25880.0
+CID0190,Male,36-45,Gujarat,Married,Homemaker,Toys & Games,5,980.0,4,4900.0
+CID0191,Male,18-25,Maharashtra,Married,Homemaker,Clothing,2,3140.0,3,6280.0
+CID0192,Female,36-45,Tamil Nadu,Unmarried,Healthcare,Beauty & Personal Care,3,1820.0,4,5460.0
+CID0193,Female,26-35,Gujarat,Unmarried,Business Owner,Sports,3,3980.0,3,11940.0
+CID0194,Female,36-45,Karnataka,Unmarried,Homemaker,Clothing,4,3620.0,3,14480.0
+CID0195,Male,18-25,Uttar Pradesh,Married,Student,Clothing,1,3130.0,5,3130.0
+CID0196,Male,46-55,Delhi,Unmarried,IT Professional,Home Decor,5,2890.0,4,14450.0
+CID0197,Female,55+,Delhi,Unmarried,IT Professional,Beauty & Personal Care,4,1340.0,4,5360.0
+CID0198,Female,55+,Tamil Nadu,Married,Govt Employee,Jewellery,2,10990.0,3,21980.0
+CID0199,Female,36-45,Karnataka,Married,Business Owner,Electronics,2,13010.0,4,26020.0
+CID0200,Female,18-25,Delhi,Married,Student,Clothing,2,1900.0,5,3800.0
+CID0201,Female,36-45,Punjab,Married,Healthcare,Home Decor,4,4420.0,5,17680.0
+CID0202,Male,18-25,Uttar Pradesh,Unmarried,IT Professional,Home Decor,5,3580.0,5,17900.0
+CID0203,Male,18-25,Delhi,Unmarried,IT Professional,Electronics,3,21540.0,4,64620.0
+CID0204,Female,26-35,Uttar Pradesh,Unmarried,Teacher,Jewellery,1,9760.0,4,9760.0
+CID0205,Female,26-35,Rajasthan,Unmarried,IT Professional,Food & Sweets,3,620.0,4,1860.0
+CID0206,Male,36-45,Tamil Nadu,Married,Business Owner,Jewellery,5,11670.0,4,58350.0
+CID0207,Male,36-45,Maharashtra,Unmarried,Student,Jewellery,3,7250.0,5,21750.0
+CID0208,Female,26-35,Tamil Nadu,Married,Business Owner,Toys & Games,4,1160.0,4,4640.0
+CID0209,Male,26-35,Maharashtra,Unmarried,IT Professional,Home Decor,2,3580.0,5,7160.0
+CID0210,Male,55+,Tamil Nadu,Married,IT Professional,Food & Sweets,5,590.0,3,2950.0
+CID0211,Male,26-35,Rajasthan,Unmarried,IT Professional,Electronics,5,16460.0,5,82300.0
+CID0212,Female,26-35,West Bengal,Married,Student,Food & Sweets,3,640.0,5,1920.0
+CID0213,Female,18-25,Uttar Pradesh,Married,Business Owner,Electronics,4,15310.0,5,61240.0
+CID0214,Male,36-45,Madhya Pradesh,Unmarried,Govt Employee,Food & Sweets,3,780.0,4,2340.0
+CID0215,Female,36-45,Rajasthan,Married,Student,Clothing,3,3300.0,5,9900.0
+CID0216,Male,26-35,Maharashtra,Unmarried,Healthcare,Electronics,5,20140.0,5,100700.0
+CID0217,Male,18-25,West Bengal,Married,IT Professional,Electronics,3,12340.0,4,37020.0
+CID0218,Female,36-45,Maharashtra,Unmarried,Business Owner,Electronics,2,14900.0,4,29800.0
+CID0219,Female,36-45,Tamil Nadu,Married,Student,Toys & Games,3,1200.0,5,3600.0
+CID0220,Female,26-35,Uttar Pradesh,Married,Govt Employee,Toys & Games,2,990.0,5,1980.0
+CID0221,Female,55+,Rajasthan,Married,Govt Employee,Home Decor,5,4690.0,4,23450.0
+CID0222,Female,18-25,Karnataka,Married,Student,Electronics,4,18990.0,4,75960.0
+CID0223,Male,26-35,Uttar Pradesh,Married,Healthcare,Electronics,2,12780.0,5,25560.0
+CID0224,Male,55+,Maharashtra,Married,Homemaker,Electronics,4,14900.0,3,59600.0
+CID0225,Male,26-35,Uttar Pradesh,Married,Student,Electronics,4,11770.0,4,47080.0
+CID0226,Male,36-45,Delhi,Married,Homemaker,Beauty & Personal Care,2,1800.0,3,3600.0
+CID0227,Female,26-35,Maharashtra,Married,Govt Employee,Clothing,5,1990.0,5,9950.0
+CID0228,Male,26-35,Karnataka,Unmarried,Student,Clothing,1,3720.0,3,3720.0
+CID0229,Female,55+,Maharashtra,Married,Business Owner,Electronics,4,19870.0,5,79480.0
+CID0230,Female,26-35,Maharashtra,Married,IT Professional,Clothing,4,2530.0,3,10120.0
+CID0231,Female,46-55,Rajasthan,Unmarried,Homemaker,Home Decor,5,4070.0,5,20350.0
+CID0232,Male,26-35,Uttar Pradesh,Married,Business Owner,Food & Sweets,5,1140.0,5,5700.0
+CID0233,Female,26-35,Tamil Nadu,Unmarried,Govt Employee,Clothing,3,2860.0,4,8580.0
+CID0234,Male,18-25,Tamil Nadu,Married,Healthcare,Electronics,5,12590.0,4,62950.0
+CID0235,Male,36-45,Gujarat,Married,IT Professional,Clothing,4,2510.0,4,10040.0
+CID0236,Female,26-35,Karnataka,Married,Govt Employee,Clothing,2,3440.0,4,6880.0
+CID0237,Male,46-55,Tamil Nadu,Unmarried,IT Professional,Electronics,1,18230.0,5,18230.0
+CID0238,Male,26-35,Maharashtra,Unmarried,Homemaker,Sports,3,3660.0,4,10980.0
+CID0239,Female,55+,Uttar Pradesh,Married,Homemaker,Food & Sweets,2,1110.0,5,2220.0
+CID0240,Male,18-25,Maharashtra,Married,Govt Employee,Home Decor,1,4950.0,4,4950.0
+CID0241,Female,46-55,West Bengal,Unmarried,Student,Clothing,1,3590.0,4,3590.0
+CID0242,Female,36-45,Uttar Pradesh,Married,Govt Employee,Home Decor,1,2720.0,4,2720.0
+CID0243,Female,36-45,Karnataka,Married,Homemaker,Home Decor,2,3970.0,4,7940.0
+CID0244,Male,46-55,Punjab,Unmarried,Business Owner,Food & Sweets,3,1030.0,4,3090.0
+CID0245,Male,36-45,Tamil Nadu,Unmarried,Business Owner,Toys & Games,3,1570.0,5,4710.0
+CID0246,Female,36-45,Karnataka,Married,Teacher,Electronics,1,17780.0,4,17780.0
+CID0247,Male,18-25,Uttar Pradesh,Unmarried,Govt Employee,Home Decor,2,2920.0,3,5840.0
+CID0248,Female,18-25,West Bengal,Unmarried,IT Professional,Clothing,1,3340.0,5,3340.0
+CID0249,Female,55+,Karnataka,Married,Student,Jewellery,5,10210.0,5,51050.0
+CID0250,Female,36-45,Uttar Pradesh,Married,Teacher,Food & Sweets,3,620.0,3,1860.0
+CID0251,Male,36-45,Uttar Pradesh,Married,Govt Employee,Home Decor,4,3750.0,5,15000.0
+CID0252,Male,26-35,Tamil Nadu,Unmarried,IT Professional,Electronics,1,12590.0,4,12590.0
+CID0253,Female,18-25,Gujarat,Unmarried,Govt Employee,Food & Sweets,5,780.0,5,3900.0
+CID0254,Male,18-25,West Bengal,Married,Business Owner,Electronics,3,10720.0,5,32160.0
+CID0255,Male,36-45,Tamil Nadu,Unmarried,IT Professional,Clothing,2,2550.0,5,5100.0
+CID0256,Female,26-35,Karnataka,Married,Student,Electronics,3,17100.0,5,51300.0
+CID0257,Female,26-35,Karnataka,Married,Teacher,Food & Sweets,2,960.0,4,1920.0
+CID0258,Female,26-35,Delhi,Married,Business Owner,Electronics,2,18460.0,5,36920.0
+CID0259,Female,18-25,Maharashtra,Married,Govt Employee,Clothing,1,3420.0,4,3420.0
+CID0260,Male,36-45,Delhi,Unmarried,Business Owner,Beauty & Personal Care,1,1310.0,3,1310.0
+CID0261,Female,26-35,Rajasthan,Married,IT Professional,Electronics,3,11950.0,4,35850.0
+CID0262,Female,36-45,Gujarat,Unmarried,Healthcare,Home Decor,5,4830.0,5,24150.0
+CID0263,Male,26-35,Tamil Nadu,Married,Business Owner,Clothing,3,2060.0,5,6180.0
+CID0264,Male,26-35,Delhi,Married,Govt Employee,Electronics,4,22200.0,3,88800.0
+CID0265,Female,18-25,Gujarat,Unmarried,Student,Toys & Games,2,1650.0,5,3300.0
+CID0266,Female,18-25,Gujarat,Married,Business Owner,Electronics,2,16510.0,5,33020.0
+CID0267,Female,26-35,Karnataka,Married,Student,Home Decor,1,5200.0,4,5200.0
+CID0268,Female,26-35,Rajasthan,Married,IT Professional,Home Decor,5,2720.0,4,13600.0
+CID0269,Male,36-45,Maharashtra,Unmarried,Homemaker,Food & Sweets,1,750.0,5,750.0
+CID0270,Male,26-35,Karnataka,Married,Teacher,Food & Sweets,4,970.0,4,3880.0
+CID0271,Female,36-45,Uttar Pradesh,Married,Student,Clothing,3,2450.0,3,7350.0
+CID0272,Female,46-55,Delhi,Married,Teacher,Electronics,3,21640.0,5,64920.0
+CID0273,Female,36-45,Karnataka,Married,IT Professional,Toys & Games,5,900.0,5,4500.0
+CID0274,Female,18-25,Gujarat,Unmarried,Business Owner,Home Decor,1,3990.0,5,3990.0
+CID0275,Male,26-35,Madhya Pradesh,Married,Student,Jewellery,1,9380.0,5,9380.0
+CID0276,Male,18-25,Gujarat,Married,Student,Jewellery,4,9780.0,4,39120.0
+CID0277,Female,26-35,Rajasthan,Married,Business Owner,Jewellery,3,7240.0,4,21720.0
+CID0278,Female,55+,Karnataka,Married,Govt Employee,Home Decor,1,3470.0,5,3470.0
+CID0279,Female,18-25,Gujarat,Unmarried,IT Professional,Clothing,5,3440.0,4,17200.0
+CID0280,Female,26-35,Uttar Pradesh,Married,Govt Employee,Toys & Games,3,1030.0,5,3090.0
+CID0281,Female,36-45,Maharashtra,Unmarried,IT Professional,Home Decor,4,4770.0,3,19080.0
+CID0282,Male,36-45,Delhi,Married,Homemaker,Electronics,5,17250.0,4,86250.0
+CID0283,Male,36-45,Delhi,Married,IT Professional,Jewellery,2,10480.0,4,20960.0
+CID0284,Male,18-25,Uttar Pradesh,Unmarried,IT Professional,Beauty & Personal Care,4,1910.0,5,7640.0
+CID0285,Female,26-35,Uttar Pradesh,Married,Business Owner,Home Decor,5,3030.0,4,15150.0
+CID0286,Male,26-35,Maharashtra,Unmarried,Student,Electronics,1,17330.0,3,17330.0
+CID0287,Male,18-25,Punjab,Unmarried,Healthcare,Clothing,2,3490.0,4,6980.0
+CID0288,Male,26-35,Maharashtra,Married,Student,Jewellery,4,8370.0,5,33480.0
+CID0289,Male,18-25,Karnataka,Married,Govt Employee,Beauty & Personal Care,1,2210.0,4,2210.0
+CID0290,Female,18-25,Maharashtra,Unmarried,Homemaker,Electronics,2,15930.0,4,31860.0
+CID0291,Male,26-35,Gujarat,Married,Business Owner,Electronics,3,12210.0,3,36630.0
+CID0292,Male,18-25,Maharashtra,Married,IT Professional,Jewellery,1,8090.0,5,8090.0
+CID0293,Female,36-45,Maharashtra,Married,Student,Clothing,5,3650.0,3,18250.0
+CID0294,Male,36-45,Karnataka,Married,Healthcare,Home Decor,4,3350.0,4,13400.0
+CID0295,Male,46-55,Uttar Pradesh,Unmarried,Govt Employee,Sports,2,4180.0,4,8360.0
+CID0296,Male,26-35,Uttar Pradesh,Married,Govt Employee,Electronics,1,21080.0,4,21080.0
+CID0297,Female,18-25,Maharashtra,Married,IT Professional,Food & Sweets,3,780.0,5,2340.0
+CID0298,Male,18-25,Uttar Pradesh,Unmarried,IT Professional,Electronics,4,11500.0,4,46000.0
+CID0299,Female,36-45,Uttar Pradesh,Married,Business Owner,Clothing,4,3200.0,5,12800.0
+CID0300,Male,36-45,Maharashtra,Married,Student,Jewellery,1,7590.0,5,7590.0
+CID0301,Male,18-25,West Bengal,Unmarried,IT Professional,Home Decor,3,4640.0,4,13920.0
+CID0302,Male,55+,Karnataka,Married,Teacher,Sports,2,3160.0,5,6320.0
+CID0303,Male,18-25,Karnataka,Unmarried,Homemaker,Home Decor,1,3810.0,5,3810.0
+CID0304,Female,26-35,Maharashtra,Unmarried,Student,Clothing,2,3310.0,5,6620.0
+CID0305,Female,36-45,Madhya Pradesh,Married,Healthcare,Clothing,4,2510.0,4,10040.0
+CID0306,Female,46-55,Delhi,Married,IT Professional,Clothing,2,2640.0,4,5280.0
+CID0307,Male,36-45,Uttar Pradesh,Married,Business Owner,Clothing,3,2500.0,4,7500.0
+CID0308,Male,46-55,Gujarat,Married,Student,Electronics,5,14910.0,5,74550.0
+CID0309,Female,26-35,Uttar Pradesh,Unmarried,Healthcare,Clothing,3,2800.0,4,8400.0
+CID0310,Male,46-55,Delhi,Unmarried,Homemaker,Home Decor,2,4710.0,4,9420.0
+CID0311,Male,18-25,Karnataka,Married,Govt Employee,Toys & Games,1,1190.0,4,1190.0
+CID0312,Male,46-55,Tamil Nadu,Unmarried,Teacher,Food & Sweets,4,900.0,4,3600.0
+CID0313,Male,26-35,Karnataka,Unmarried,IT Professional,Toys & Games,5,1480.0,4,7400.0
+CID0314,Female,46-55,Rajasthan,Unmarried,Healthcare,Electronics,1,13730.0,3,13730.0
+CID0315,Female,26-35,Punjab,Married,Teacher,Electronics,1,13830.0,4,13830.0
+CID0316,Female,36-45,Uttar Pradesh,Married,IT Professional,Food & Sweets,3,1160.0,5,3480.0
+CID0317,Male,26-35,Maharashtra,Married,Homemaker,Home Decor,2,4480.0,4,8960.0
+CID0318,Male,36-45,Delhi,Unmarried,IT Professional,Electronics,3,17430.0,5,52290.0
+CID0319,Male,18-25,Delhi,Married,Business Owner,Jewellery,2,9750.0,3,19500.0
+CID0320,Male,18-25,Delhi,Married,Business Owner,Toys & Games,3,870.0,4,2610.0
+CID0321,Male,26-35,Tamil Nadu,Married,Student,Home Decor,1,4180.0,5,4180.0
+CID0322,Female,18-25,Rajasthan,Married,Teacher,Electronics,4,16610.0,5,66440.0
+CID0323,Female,46-55,Gujarat,Married,Student,Toys & Games,2,1360.0,4,2720.0
+CID0324,Male,26-35,Maharashtra,Unmarried,Business Owner,Food & Sweets,5,790.0,5,3950.0
+CID0325,Female,55+,West Bengal,Married,Homemaker,Toys & Games,5,920.0,5,4600.0
+CID0326,Female,26-35,Madhya Pradesh,Married,Teacher,Toys & Games,1,1030.0,5,1030.0
+CID0327,Female,18-25,West Bengal,Married,IT Professional,Jewellery,3,11680.0,4,35040.0
+CID0328,Female,36-45,Uttar Pradesh,Married,Teacher,Home Decor,3,3590.0,4,10770.0
+CID0329,Male,36-45,Gujarat,Married,IT Professional,Electronics,1,16100.0,5,16100.0
+CID0330,Male,26-35,Uttar Pradesh,Married,Homemaker,Food & Sweets,5,590.0,5,2950.0
+CID0331,Male,36-45,Maharashtra,Married,Govt Employee,Food & Sweets,5,580.0,3,2900.0
+CID0332,Female,36-45,Uttar Pradesh,Married,IT Professional,Toys & Games,3,1530.0,5,4590.0
+CID0333,Male,26-35,Gujarat,Married,Business Owner,Electronics,2,16960.0,3,33920.0
+CID0334,Male,55+,Gujarat,Married,Student,Electronics,4,16600.0,4,66400.0
+CID0335,Male,55+,Uttar Pradesh,Unmarried,Govt Employee,Beauty & Personal Care,2,1340.0,4,2680.0
+CID0336,Male,36-45,Delhi,Unmarried,IT Professional,Toys & Games,5,1550.0,5,7750.0
+CID0337,Female,18-25,Delhi,Married,Student,Beauty & Personal Care,2,1250.0,4,2500.0
+CID0338,Female,36-45,Delhi,Married,Healthcare,Toys & Games,4,1020.0,5,4080.0
+CID0339,Male,18-25,Uttar Pradesh,Unmarried,Govt Employee,Food & Sweets,2,850.0,4,1700.0
+CID0340,Male,18-25,Delhi,Married,IT Professional,Food & Sweets,2,740.0,5,1480.0
+CID0341,Male,26-35,Rajasthan,Unmarried,Business Owner,Beauty & Personal Care,2,1350.0,5,2700.0
+CID0342,Male,26-35,Uttar Pradesh,Unmarried,IT Professional,Food & Sweets,2,970.0,5,1940.0
+CID0343,Male,46-55,Uttar Pradesh,Married,Healthcare,Food & Sweets,1,980.0,5,980.0
+CID0344,Male,36-45,Delhi,Married,Healthcare,Electronics,5,20390.0,3,101950.0
+CID0345,Male,36-45,Madhya Pradesh,Unmarried,Student,Home Decor,4,3620.0,4,14480.0
+CID0346,Female,26-35,Gujarat,Married,Govt Employee,Toys & Games,5,910.0,3,4550.0
+CID0347,Female,26-35,Gujarat,Married,Homemaker,Clothing,1,2300.0,4,2300.0
+CID0348,Male,26-35,Delhi,Married,Business Owner,Electronics,1,22260.0,5,22260.0
+CID0349,Male,55+,Karnataka,Married,Healthcare,Clothing,1,2940.0,3,2940.0
+CID0350,Female,18-25,Uttar Pradesh,Unmarried,Student,Clothing,1,3170.0,4,3170.0
+CID0351,Male,46-55,Gujarat,Unmarried,Homemaker,Electronics,2,10590.0,4,21180.0
+CID0352,Female,36-45,Tamil Nadu,Unmarried,Student,Home Decor,5,3900.0,4,19500.0
+CID0353,Female,26-35,Gujarat,Married,Business Owner,Beauty & Personal Care,3,1100.0,4,3300.0
+CID0354,Male,36-45,Tamil Nadu,Married,Teacher,Home Decor,4,4040.0,5,16160.0
+CID0355,Male,26-35,Rajasthan,Married,Business Owner,Electronics,1,21550.0,3,21550.0
+CID0356,Female,46-55,Uttar Pradesh,Married,Student,Electronics,5,22120.0,4,110600.0
+CID0357,Male,46-55,Tamil Nadu,Married,Govt Employee,Food & Sweets,1,910.0,5,910.0
+CID0358,Female,26-35,Uttar Pradesh,Unmarried,Student,Clothing,1,2670.0,5,2670.0
+CID0359,Female,26-35,Karnataka,Unmarried,Student,Jewellery,1,11650.0,4,11650.0
+CID0360,Female,36-45,Uttar Pradesh,Married,IT Professional,Food & Sweets,1,990.0,5,990.0
+CID0361,Male,46-55,Uttar Pradesh,Unmarried,IT Professional,Toys & Games,1,900.0,4,900.0
+CID0362,Female,26-35,Delhi,Married,Student,Clothing,4,2680.0,4,10720.0
+CID0363,Male,36-45,Maharashtra,Married,Homemaker,Food & Sweets,5,710.0,3,3550.0
+CID0364,Male,36-45,Karnataka,Unmarried,Business Owner,Clothing,1,2690.0,4,2690.0
+CID0365,Female,36-45,Karnataka,Married,Govt Employee,Beauty & Personal Care,1,1600.0,5,1600.0
+CID0366,Male,18-25,Uttar Pradesh,Unmarried,Student,Food & Sweets,1,930.0,3,930.0
+CID0367,Female,36-45,Uttar Pradesh,Unmarried,IT Professional,Clothing,1,2460.0,4,2460.0
+CID0368,Female,46-55,Karnataka,Married,Business Owner,Clothing,2,2080.0,5,4160.0
+CID0369,Male,18-25,Delhi,Unmarried,IT Professional,Electronics,2,16540.0,4,33080.0
+CID0370,Male,26-35,Rajasthan,Married,IT Professional,Food & Sweets,3,1090.0,4,3270.0
+CID0371,Male,55+,Gujarat,Married,IT Professional,Electronics,1,18470.0,5,18470.0
+CID0372,Male,18-25,West Bengal,Married,Govt Employee,Food & Sweets,3,780.0,4,2340.0
+CID0373,Male,46-55,Gujarat,Married,IT Professional,Clothing,4,3620.0,5,14480.0
+CID0374,Female,26-35,Delhi,Unmarried,Govt Employee,Food & Sweets,3,1140.0,3,3420.0
+CID0375,Male,26-35,Gujarat,Married,Business Owner,Jewellery,5,6940.0,5,34700.0
+CID0376,Male,46-55,Maharashtra,Unmarried,Business Owner,Toys & Games,2,880.0,4,1760.0
+CID0377,Female,26-35,Maharashtra,Married,Govt Employee,Toys & Games,2,1550.0,5,3100.0
+CID0378,Male,26-35,West Bengal,Married,Healthcare,Electronics,1,20430.0,3,20430.0
+CID0379,Female,26-35,Delhi,Unmarried,IT Professional,Electronics,1,22110.0,5,22110.0
+CID0380,Male,36-45,West Bengal,Married,Business Owner,Food & Sweets,4,1130.0,4,4520.0
+CID0381,Male,18-25,West Bengal,Married,IT Professional,Clothing,4,2950.0,4,11800.0
+CID0382,Female,26-35,Tamil Nadu,Married,IT Professional,Home Decor,5,3930.0,4,19650.0
+CID0383,Female,55+,Tamil Nadu,Married,Student,Electronics,1,10830.0,5,10830.0
+CID0384,Female,26-35,Delhi,Married,Student,Clothing,1,2240.0,5,2240.0
+CID0385,Female,36-45,Maharashtra,Unmarried,Healthcare,Electronics,4,16020.0,3,64080.0
+CID0386,Female,26-35,Karnataka,Married,Business Owner,Jewellery,4,9620.0,3,38480.0
+CID0387,Male,36-45,Delhi,Married,Teacher,Clothing,4,2860.0,5,11440.0
+CID0388,Male,18-25,Gujarat,Unmarried,IT Professional,Home Decor,2,4530.0,3,9060.0
+CID0389,Female,55+,Rajasthan,Married,IT Professional,Electronics,3,13860.0,5,41580.0
+CID0390,Female,26-35,Gujarat,Unmarried,IT Professional,Food & Sweets,3,920.0,5,2760.0
+CID0391,Female,26-35,Delhi,Married,IT Professional,Clothing,1,1930.0,5,1930.0
+CID0392,Male,18-25,Uttar Pradesh,Married,Business Owner,Beauty & Personal Care,2,1550.0,4,3100.0
+CID0393,Male,18-25,Delhi,Unmarried,Student,Beauty & Personal Care,4,1950.0,4,7800.0
+CID0394,Female,26-35,Uttar Pradesh,Married,IT Professional,Clothing,1,3140.0,5,3140.0
+CID0395,Male,26-35,Tamil Nadu,Unmarried,Teacher,Beauty & Personal Care,2,2240.0,5,4480.0
+CID0396,Female,46-55,Delhi,Married,Healthcare,Sports,5,2770.0,5,13850.0
+CID0397,Female,26-35,Uttar Pradesh,Married,Govt Employee,Jewellery,2,8790.0,4,17580.0
+CID0398,Male,26-35,Uttar Pradesh,Married,IT Professional,Jewellery,1,7710.0,3,7710.0
+CID0399,Female,36-45,Gujarat,Married,IT Professional,Clothing,3,2630.0,3,7890.0
+CID0400,Female,36-45,Gujarat,Unmarried,IT Professional,Food & Sweets,4,1110.0,5,4440.0
+CID0401,Male,18-25,Delhi,Married,IT Professional,Electronics,5,18710.0,4,93550.0
+CID0402,Female,18-25,Uttar Pradesh,Unmarried,Business Owner,Electronics,2,21090.0,3,42180.0
+CID0403,Male,18-25,Delhi,Unmarried,Govt Employee,Sports,1,2590.0,4,2590.0
+CID0404,Female,36-45,Maharashtra,Married,Govt Employee,Clothing,1,3500.0,4,3500.0
+CID0405,Male,36-45,Gujarat,Married,Teacher,Toys & Games,4,900.0,5,3600.0
+CID0406,Female,26-35,Gujarat,Unmarried,Student,Jewellery,1,11290.0,4,11290.0
+CID0407,Male,46-55,Delhi,Unmarried,Teacher,Jewellery,1,7710.0,4,7710.0
+CID0408,Male,46-55,Maharashtra,Married,IT Professional,Sports,4,2860.0,4,11440.0
+CID0409,Female,36-45,Punjab,Married,Govt Employee,Clothing,5,2770.0,4,13850.0
+CID0410,Male,46-55,Delhi,Married,Business Owner,Electronics,3,21790.0,3,65370.0
+CID0411,Male,26-35,Gujarat,Unmarried,IT Professional,Clothing,3,1850.0,3,5550.0
+CID0412,Female,18-25,Uttar Pradesh,Married,IT Professional,Electronics,2,14730.0,5,29460.0
+CID0413,Female,26-35,Karnataka,Unmarried,Student,Electronics,5,20780.0,3,103900.0
+CID0414,Female,18-25,Uttar Pradesh,Married,Student,Clothing,2,2540.0,4,5080.0
+CID0415,Female,26-35,Karnataka,Married,Business Owner,Toys & Games,3,1030.0,4,3090.0
+CID0416,Male,55+,Madhya Pradesh,Married,Business Owner,Home Decor,4,3640.0,5,14560.0
+CID0417,Male,18-25,Delhi,Married,Business Owner,Clothing,1,2520.0,4,2520.0
+CID0418,Male,18-25,Uttar Pradesh,Married,IT Professional,Food & Sweets,3,1150.0,5,3450.0
+CID0419,Female,26-35,Uttar Pradesh,Married,Govt Employee,Clothing,5,3270.0,4,16350.0
+CID0420,Female,55+,Delhi,Married,IT Professional,Electronics,3,16560.0,5,49680.0
+CID0421,Female,26-35,Uttar Pradesh,Married,IT Professional,Toys & Games,5,1790.0,3,8950.0
+CID0422,Female,26-35,Uttar Pradesh,Married,Teacher,Food & Sweets,5,860.0,5,4300.0
+CID0423,Male,18-25,Rajasthan,Unmarried,Student,Toys & Games,5,900.0,3,4500.0
+CID0424,Male,18-25,Delhi,Married,Homemaker,Electronics,2,13650.0,4,27300.0
+CID0425,Male,55+,Maharashtra,Married,Govt Employee,Jewellery,4,8390.0,5,33560.0
+CID0426,Male,55+,Tamil Nadu,Married,Govt Employee,Food & Sweets,3,660.0,4,1980.0
+CID0427,Male,18-25,Uttar Pradesh,Unmarried,Govt Employee,Home Decor,4,5100.0,5,20400.0
+CID0428,Female,55+,Madhya Pradesh,Married,IT Professional,Food & Sweets,1,1050.0,4,1050.0
+CID0429,Male,36-45,Maharashtra,Unmarried,IT Professional,Jewellery,3,7320.0,5,21960.0
+CID0430,Male,46-55,Tamil Nadu,Unmarried,Homemaker,Food & Sweets,4,940.0,5,3760.0
+CID0431,Male,26-35,Gujarat,Unmarried,Student,Food & Sweets,4,1020.0,5,4080.0
+CID0432,Female,26-35,West Bengal,Married,Business Owner,Sports,1,4360.0,5,4360.0
+CID0433,Female,26-35,Punjab,Unmarried,Business Owner,Toys & Games,5,1690.0,5,8450.0
+CID0434,Male,36-45,Maharashtra,Married,Teacher,Home Decor,3,3890.0,5,11670.0
+CID0435,Male,18-25,Madhya Pradesh,Married,IT Professional,Toys & Games,3,1580.0,4,4740.0
+CID0436,Female,18-25,Delhi,Unmarried,Govt Employee,Clothing,1,2870.0,3,2870.0
+CID0437,Male,26-35,Delhi,Married,Govt Employee,Clothing,5,2860.0,5,14300.0
+CID0438,Female,36-45,Delhi,Unmarried,Homemaker,Food & Sweets,3,630.0,5,1890.0
+CID0439,Female,26-35,Karnataka,Married,Teacher,Beauty & Personal Care,3,1200.0,5,3600.0
+CID0440,Male,36-45,Uttar Pradesh,Unmarried,Govt Employee,Beauty & Personal Care,3,1690.0,5,5070.0
+CID0441,Male,55+,Karnataka,Married,Healthcare,Clothing,5,2290.0,5,11450.0
+CID0442,Female,18-25,Karnataka,Married,Healthcare,Home Decor,1,2510.0,4,2510.0
+CID0443,Male,36-45,Rajasthan,Married,Govt Employee,Electronics,3,19170.0,4,57510.0
+CID0444,Male,26-35,West Bengal,Unmarried,Govt Employee,Sports,4,2180.0,4,8720.0
+CID0445,Female,46-55,Delhi,Married,Business Owner,Sports,5,3530.0,4,17650.0
+CID0446,Female,18-25,Maharashtra,Married,Teacher,Food & Sweets,2,910.0,4,1820.0
+CID0447,Female,36-45,Maharashtra,Married,IT Professional,Jewellery,1,11800.0,5,11800.0
+CID0448,Female,46-55,Maharashtra,Unmarried,Homemaker,Toys & Games,4,1300.0,5,5200.0
+CID0449,Male,55+,Uttar Pradesh,Married,Govt Employee,Food & Sweets,3,600.0,4,1800.0
+CID0450,Male,36-45,Delhi,Married,Homemaker,Electronics,2,17120.0,3,34240.0
+CID0451,Female,26-35,Maharashtra,Married,Business Owner,Home Decor,1,4810.0,4,4810.0
+CID0452,Female,36-45,Madhya Pradesh,Married,Student,Food & Sweets,5,1200.0,4,6000.0
+CID0453,Male,46-55,Karnataka,Married,Healthcare,Food & Sweets,2,840.0,4,1680.0
+CID0454,Female,36-45,Delhi,Married,Homemaker,Clothing,2,2390.0,3,4780.0
+CID0455,Male,18-25,Karnataka,Unmarried,Healthcare,Beauty & Personal Care,4,2140.0,4,8560.0
+CID0456,Male,55+,Uttar Pradesh,Married,IT Professional,Electronics,1,12790.0,4,12790.0
+CID0457,Male,36-45,Delhi,Married,Student,Home Decor,4,4170.0,5,16680.0
+CID0458,Male,36-45,Gujarat,Married,IT Professional,Food & Sweets,4,820.0,3,3280.0
+CID0459,Male,26-35,Karnataka,Unmarried,Business Owner,Food & Sweets,3,590.0,3,1770.0
+CID0460,Male,36-45,Delhi,Unmarried,Business Owner,Food & Sweets,5,780.0,3,3900.0
+CID0461,Male,26-35,Punjab,Unmarried,Business Owner,Clothing,2,2280.0,4,4560.0
+CID0462,Female,36-45,Tamil Nadu,Married,Business Owner,Electronics,1,18730.0,5,18730.0
+CID0463,Female,18-25,Gujarat,Married,Teacher,Food & Sweets,5,1170.0,5,5850.0
+CID0464,Female,36-45,Karnataka,Married,IT Professional,Food & Sweets,5,730.0,4,3650.0
+CID0465,Female,55+,Gujarat,Married,Student,Electronics,1,20240.0,5,20240.0
+CID0466,Male,18-25,Maharashtra,Married,Govt Employee,Toys & Games,5,890.0,4,4450.0
+CID0467,Male,55+,Delhi,Unmarried,IT Professional,Home Decor,3,3960.0,5,11880.0
+CID0468,Female,26-35,Uttar Pradesh,Unmarried,IT Professional,Food & Sweets,5,610.0,3,3050.0
+CID0469,Male,46-55,Delhi,Unmarried,Teacher,Jewellery,3,11580.0,4,34740.0
+CID0470,Female,36-45,Karnataka,Married,Healthcare,Electronics,2,19700.0,5,39400.0
+CID0471,Male,36-45,Maharashtra,Unmarried,Healthcare,Electronics,2,18400.0,5,36800.0
+CID0472,Female,36-45,Madhya Pradesh,Married,Teacher,Toys & Games,4,1630.0,5,6520.0
+CID0473,Male,46-55,Tamil Nadu,Married,IT Professional,Food & Sweets,3,970.0,4,2910.0
+CID0474,Female,26-35,Rajasthan,Unmarried,Govt Employee,Food & Sweets,2,1180.0,4,2360.0
+CID0475,Male,26-35,Karnataka,Married,Student,Jewellery,5,10170.0,5,50850.0
+CID0476,Female,36-45,Tamil Nadu,Married,Business Owner,Jewellery,1,11520.0,3,11520.0
+CID0477,Male,46-55,Uttar Pradesh,Married,Business Owner,Sports,1,3340.0,4,3340.0
+CID0478,Female,36-45,West Bengal,Unmarried,Govt Employee,Home Decor,3,2780.0,3,8340.0
+CID0479,Female,36-45,Uttar Pradesh,Unmarried,Student,Home Decor,4,3930.0,4,15720.0
+CID0480,Male,26-35,West Bengal,Married,Student,Clothing,5,2000.0,4,10000.0
+CID0481,Female,46-55,Maharashtra,Unmarried,IT Professional,Electronics,3,17610.0,4,52830.0
+CID0482,Female,18-25,Tamil Nadu,Married,Business Owner,Food & Sweets,1,870.0,4,870.0
+CID0483,Male,26-35,Madhya Pradesh,Married,Business Owner,Clothing,3,3000.0,5,9000.0
+CID0484,Female,18-25,Uttar Pradesh,Unmarried,Student,Beauty & Personal Care,5,1060.0,3,5300.0
+CID0485,Female,26-35,Delhi,Unmarried,IT Professional,Food & Sweets,2,680.0,4,1360.0
+CID0486,Female,26-35,Punjab,Unmarried,Homemaker,Food & Sweets,5,870.0,4,4350.0
+CID0487,Male,26-35,Karnataka,Married,IT Professional,Clothing,2,3650.0,5,7300.0
+CID0488,Male,36-45,Tamil Nadu,Unmarried,Govt Employee,Electronics,2,15100.0,4,30200.0
+CID0489,Female,26-35,Karnataka,Unmarried,Homemaker,Electronics,2,15590.0,5,31180.0
+CID0490,Female,26-35,Delhi,Unmarried,Student,Home Decor,3,4450.0,3,13350.0
+CID0491,Male,26-35,Maharashtra,Married,Govt Employee,Electronics,1,17750.0,5,17750.0
+CID0492,Female,26-35,Maharashtra,Unmarried,Student,Food & Sweets,3,750.0,4,2250.0
+CID0493,Male,26-35,Rajasthan,Married,Student,Beauty & Personal Care,1,1540.0,3,1540.0
+CID0494,Male,18-25,Delhi,Married,Homemaker,Beauty & Personal Care,5,1310.0,5,6550.0
+CID0495,Male,36-45,Karnataka,Married,Homemaker,Food & Sweets,4,1180.0,5,4720.0
+CID0496,Male,36-45,Karnataka,Married,Student,Electronics,5,12070.0,4,60350.0
+CID0497,Female,36-45,Karnataka,Married,Business Owner,Jewellery,3,7980.0,3,23940.0
+CID0498,Male,26-35,Tamil Nadu,Unmarried,IT Professional,Beauty & Personal Care,3,1080.0,3,3240.0
+CID0499,Female,26-35,Punjab,Married,Govt Employee,Electronics,1,13160.0,5,13160.0
+CID0500,Female,46-55,Delhi,Unmarried,Business Owner,Toys & Games,3,1590.0,4,4770.0
+CID0501,Female,26-35,West Bengal,Married,Student,Clothing,2,2150.0,4,4300.0
+CID0502,Male,26-35,Rajasthan,Married,Business Owner,Jewellery,3,6110.0,3,18330.0
+CID0503,Male,18-25,Karnataka,Married,Govt Employee,Sports,1,3240.0,5,3240.0
+CID0504,Female,26-35,Madhya Pradesh,Married,IT Professional,Electronics,1,10620.0,5,10620.0
+CID0505,Female,26-35,Maharashtra,Married,Business Owner,Beauty & Personal Care,2,1150.0,5,2300.0
+CID0506,Male,26-35,Uttar Pradesh,Married,Govt Employee,Food & Sweets,1,1080.0,3,1080.0
+CID0507,Female,36-45,Tamil Nadu,Married,Homemaker,Sports,4,3950.0,5,15800.0
+CID0508,Female,26-35,Delhi,Married,IT Professional,Home Decor,5,5010.0,5,25050.0
+CID0509,Female,36-45,West Bengal,Married,Student,Jewellery,3,11070.0,5,33210.0
+CID0510,Female,36-45,Tamil Nadu,Married,Teacher,Electronics,4,18700.0,4,74800.0
+CID0511,Female,46-55,Uttar Pradesh,Married,IT Professional,Clothing,3,1850.0,4,5550.0
+CID0512,Male,36-45,Tamil Nadu,Unmarried,Business Owner,Electronics,4,19890.0,5,79560.0
+CID0513,Female,55+,Delhi,Unmarried,IT Professional,Sports,3,4130.0,3,12390.0
+CID0514,Female,18-25,Karnataka,Unmarried,Student,Jewellery,2,10710.0,4,21420.0
+CID0515,Male,18-25,Gujarat,Married,Business Owner,Jewellery,1,8850.0,5,8850.0
+CID0516,Male,18-25,Madhya Pradesh,Unmarried,Business Owner,Beauty & Personal Care,1,1330.0,5,1330.0
+CID0517,Male,36-45,Uttar Pradesh,Unmarried,Business Owner,Electronics,2,20640.0,5,41280.0
+CID0518,Female,46-55,Delhi,Unmarried,Healthcare,Clothing,4,3200.0,5,12800.0
+CID0519,Female,26-35,Gujarat,Married,IT Professional,Electronics,5,22270.0,4,111350.0
+CID0520,Male,55+,Rajasthan,Unmarried,IT Professional,Electronics,4,12370.0,3,49480.0
+CID0521,Female,18-25,Gujarat,Unmarried,Healthcare,Clothing,1,2200.0,4,2200.0
+CID0522,Male,55+,Uttar Pradesh,Married,Student,Home Decor,5,3040.0,4,15200.0
+CID0523,Female,26-35,Maharashtra,Unmarried,Healthcare,Clothing,3,3340.0,4,10020.0
+CID0524,Female,18-25,Delhi,Married,Student,Electronics,5,12740.0,3,63700.0
+CID0525,Female,26-35,West Bengal,Married,Homemaker,Electronics,4,11300.0,4,45200.0
+CID0526,Male,26-35,Maharashtra,Married,Business Owner,Electronics,2,22480.0,5,44960.0
+CID0527,Male,26-35,Maharashtra,Unmarried,Homemaker,Sports,3,2160.0,5,6480.0
+CID0528,Male,26-35,Madhya Pradesh,Married,Healthcare,Toys & Games,4,1640.0,5,6560.0
+CID0529,Male,46-55,Uttar Pradesh,Married,Student,Sports,3,2980.0,5,8940.0
+CID0530,Female,26-35,Punjab,Married,IT Professional,Home Decor,5,4810.0,5,24050.0
+CID0531,Female,26-35,Gujarat,Married,Govt Employee,Clothing,1,2860.0,5,2860.0
+CID0532,Female,36-45,West Bengal,Married,IT Professional,Toys & Games,4,1710.0,5,6840.0
+CID0533,Female,36-45,Maharashtra,Unmarried,Govt Employee,Clothing,2,3600.0,5,7200.0
+CID0534,Female,26-35,Uttar Pradesh,Unmarried,Govt Employee,Clothing,5,1770.0,5,8850.0
+CID0535,Female,26-35,Rajasthan,Married,Business Owner,Clothing,4,1900.0,5,7600.0
+CID0536,Female,18-25,West Bengal,Married,Student,Electronics,2,13500.0,4,27000.0
+CID0537,Female,18-25,Rajasthan,Married,Business Owner,Clothing,4,3090.0,3,12360.0
+CID0538,Male,36-45,Uttar Pradesh,Unmarried,Student,Clothing,5,3530.0,4,17650.0
+CID0539,Male,18-25,Rajasthan,Married,IT Professional,Food & Sweets,4,850.0,3,3400.0
+CID0540,Male,26-35,Rajasthan,Married,IT Professional,Electronics,3,17780.0,3,53340.0
+CID0541,Female,36-45,Gujarat,Married,IT Professional,Electronics,5,12760.0,4,63800.0
+CID0542,Female,18-25,Rajasthan,Unmarried,Business Owner,Jewellery,4,10750.0,4,43000.0
+CID0543,Male,36-45,West Bengal,Unmarried,IT Professional,Electronics,1,22110.0,4,22110.0
+CID0544,Female,26-35,Gujarat,Unmarried,Govt Employee,Clothing,4,2290.0,5,9160.0
+CID0545,Female,55+,Uttar Pradesh,Unmarried,Business Owner,Jewellery,3,8770.0,4,26310.0
+CID0546,Male,26-35,Karnataka,Married,Homemaker,Electronics,2,11530.0,5,23060.0
+CID0547,Male,46-55,Uttar Pradesh,Married,IT Professional,Electronics,2,17210.0,5,34420.0
+CID0548,Female,36-45,Delhi,Married,Student,Home Decor,2,3860.0,4,7720.0
+CID0549,Male,18-25,Delhi,Married,Student,Clothing,1,2040.0,5,2040.0
+CID0550,Female,36-45,Uttar Pradesh,Married,Homemaker,Home Decor,3,3690.0,3,11070.0
+CID0551,Male,55+,Delhi,Married,Teacher,Jewellery,5,7740.0,4,38700.0
+CID0552,Female,36-45,Uttar Pradesh,Married,IT Professional,Electronics,2,16760.0,4,33520.0
+CID0553,Female,46-55,West Bengal,Unmarried,IT Professional,Food & Sweets,3,930.0,3,2790.0
+CID0554,Female,46-55,Madhya Pradesh,Unmarried,Healthcare,Home Decor,4,2470.0,4,9880.0
+CID0555,Female,26-35,Uttar Pradesh,Unmarried,Business Owner,Electronics,1,19630.0,4,19630.0
+CID0556,Male,26-35,Madhya Pradesh,Unmarried,Student,Food & Sweets,3,1020.0,4,3060.0
+CID0557,Male,36-45,Karnataka,Married,Student,Clothing,3,2480.0,4,7440.0
+CID0558,Male,26-35,Maharashtra,Unmarried,Student,Home Decor,5,2600.0,4,13000.0
+CID0559,Female,46-55,Uttar Pradesh,Married,Teacher,Electronics,3,19560.0,5,58680.0
+CID0560,Female,46-55,Karnataka,Unmarried,Teacher,Home Decor,5,5120.0,4,25600.0
+CID0561,Female,26-35,West Bengal,Married,Homemaker,Clothing,1,2230.0,4,2230.0
+CID0562,Male,26-35,Rajasthan,Unmarried,Govt Employee,Jewellery,1,7670.0,3,7670.0
+CID0563,Male,36-45,Uttar Pradesh,Married,Healthcare,Electronics,4,12710.0,3,50840.0
+CID0564,Male,26-35,Uttar Pradesh,Married,IT Professional,Clothing,5,2900.0,3,14500.0
+CID0565,Male,46-55,Delhi,Unmarried,Govt Employee,Home Decor,5,2880.0,5,14400.0
+CID0566,Female,26-35,Maharashtra,Married,Healthcare,Toys & Games,2,1180.0,3,2360.0
+CID0567,Male,36-45,Maharashtra,Unmarried,Govt Employee,Food & Sweets,2,1010.0,5,2020.0
+CID0568,Male,18-25,Maharashtra,Unmarried,Govt Employee,Food & Sweets,4,920.0,5,3680.0
+CID0569,Female,36-45,West Bengal,Unmarried,IT Professional,Toys & Games,1,1210.0,3,1210.0
+CID0570,Male,26-35,Madhya Pradesh,Unmarried,Healthcare,Jewellery,2,8290.0,4,16580.0
+CID0571,Male,36-45,Delhi,Unmarried,Business Owner,Clothing,3,2870.0,5,8610.0
+CID0572,Female,18-25,Tamil Nadu,Married,Student,Home Decor,1,2470.0,5,2470.0
+CID0573,Male,36-45,Maharashtra,Unmarried,Govt Employee,Jewellery,3,6100.0,4,18300.0
+CID0574,Female,46-55,Delhi,Unmarried,Homemaker,Sports,5,4220.0,5,21100.0
+CID0575,Female,26-35,Maharashtra,Unmarried,Homemaker,Beauty & Personal Care,1,1140.0,5,1140.0
+CID0576,Female,18-25,Gujarat,Married,Govt Employee,Clothing,4,3160.0,4,12640.0
+CID0577,Male,18-25,Punjab,Unmarried,Business Owner,Electronics,5,21540.0,5,107700.0
+CID0578,Female,36-45,Gujarat,Unmarried,IT Professional,Home Decor,5,3210.0,4,16050.0
+CID0579,Male,36-45,Delhi,Unmarried,Teacher,Toys & Games,3,1200.0,4,3600.0
+CID0580,Male,26-35,Gujarat,Married,Student,Home Decor,5,4040.0,5,20200.0
+CID0581,Male,26-35,Uttar Pradesh,Married,Teacher,Home Decor,2,4920.0,5,9840.0
+CID0582,Female,26-35,Tamil Nadu,Married,Govt Employee,Jewellery,1,11630.0,4,11630.0
+CID0583,Male,36-45,Karnataka,Unmarried,Homemaker,Clothing,2,3230.0,3,6460.0
+CID0584,Male,26-35,Delhi,Unmarried,Homemaker,Jewellery,3,6150.0,5,18450.0
+CID0585,Female,55+,Karnataka,Married,Student,Clothing,3,3090.0,5,9270.0
+CID0586,Male,18-25,Gujarat,Married,Teacher,Clothing,1,2570.0,5,2570.0
+CID0587,Male,36-45,Uttar Pradesh,Married,Govt Employee,Home Decor,5,3770.0,5,18850.0
+CID0588,Male,26-35,Gujarat,Married,IT Professional,Toys & Games,4,890.0,5,3560.0
+CID0589,Male,26-35,Maharashtra,Unmarried,Student,Electronics,3,12790.0,4,38370.0
+CID0590,Male,36-45,Rajasthan,Unmarried,Homemaker,Electronics,1,19990.0,3,19990.0
+CID0591,Male,36-45,West Bengal,Married,Student,Sports,4,3190.0,4,12760.0
+CID0592,Female,55+,West Bengal,Married,IT Professional,Electronics,5,14120.0,5,70600.0
+CID0593,Male,18-25,Karnataka,Married,Business Owner,Home Decor,3,3530.0,5,10590.0
+CID0594,Male,18-25,Karnataka,Unmarried,Govt Employee,Food & Sweets,1,1110.0,4,1110.0
+CID0595,Female,36-45,Uttar Pradesh,Married,Business Owner,Home Decor,1,4550.0,4,4550.0
+CID0596,Male,36-45,Rajasthan,Married,Student,Food & Sweets,1,730.0,4,730.0
+CID0597,Female,26-35,Maharashtra,Married,Homemaker,Clothing,3,1990.0,4,5970.0
+CID0598,Male,18-25,Karnataka,Unmarried,Govt Employee,Home Decor,4,3160.0,4,12640.0
+CID0599,Male,18-25,Maharashtra,Unmarried,Business Owner,Clothing,1,3590.0,4,3590.0
+CID0600,Male,46-55,Uttar Pradesh,Unmarried,Govt Employee,Food & Sweets,5,930.0,4,4650.0
+CID0601,Male,18-25,Gujarat,Married,IT Professional,Electronics,1,16900.0,4,16900.0
+CID0602,Male,26-35,Uttar Pradesh,Married,Homemaker,Food & Sweets,4,940.0,4,3760.0
+CID0603,Male,26-35,Rajasthan,Married,Healthcare,Electronics,3,14890.0,3,44670.0
+CID0604,Male,26-35,Maharashtra,Unmarried,Govt Employee,Clothing,1,3360.0,5,3360.0
+CID0605,Male,18-25,Uttar Pradesh,Married,Homemaker,Electronics,1,16780.0,4,16780.0
+CID0606,Male,26-35,Karnataka,Married,Healthcare,Electronics,5,11900.0,5,59500.0
+CID0607,Male,18-25,Uttar Pradesh,Unmarried,Healthcare,Jewellery,5,6430.0,5,32150.0
+CID0608,Male,46-55,Maharashtra,Unmarried,IT Professional,Clothing,1,2820.0,4,2820.0
+CID0609,Male,26-35,Rajasthan,Married,Teacher,Beauty & Personal Care,1,2170.0,4,2170.0
+CID0610,Female,26-35,Uttar Pradesh,Married,Govt Employee,Sports,5,2840.0,5,14200.0
+CID0611,Male,46-55,West Bengal,Married,Govt Employee,Food & Sweets,4,1120.0,5,4480.0
+CID0612,Female,36-45,Uttar Pradesh,Unmarried,IT Professional,Electronics,2,19670.0,5,39340.0
+CID0613,Female,26-35,Maharashtra,Unmarried,Business Owner,Clothing,2,2250.0,5,4500.0
+CID0614,Male,26-35,Rajasthan,Married,IT Professional,Toys & Games,1,870.0,4,870.0
+CID0615,Female,26-35,Maharashtra,Married,Govt Employee,Clothing,5,1950.0,3,9750.0
+CID0616,Female,36-45,Uttar Pradesh,Unmarried,Govt Employee,Electronics,3,19240.0,4,57720.0
+CID0617,Male,55+,Delhi,Unmarried,Homemaker,Home Decor,3,3010.0,4,9030.0
+CID0618,Male,36-45,Maharashtra,Married,Healthcare,Jewellery,2,7980.0,4,15960.0
+CID0619,Female,36-45,West Bengal,Married,Govt Employee,Toys & Games,4,1320.0,5,5280.0
+CID0620,Female,36-45,Maharashtra,Married,Healthcare,Electronics,2,19210.0,4,38420.0
+CID0621,Male,26-35,West Bengal,Married,Healthcare,Food & Sweets,1,630.0,4,630.0
+CID0622,Male,18-25,Tamil Nadu,Unmarried,Homemaker,Clothing,4,2560.0,5,10240.0
+CID0623,Male,36-45,Delhi,Unmarried,IT Professional,Electronics,3,16320.0,5,48960.0
+CID0624,Male,55+,Tamil Nadu,Unmarried,Student,Jewellery,5,9060.0,4,45300.0
+CID0625,Female,18-25,Delhi,Married,Teacher,Clothing,5,3390.0,5,16950.0
+CID0626,Male,36-45,Madhya Pradesh,Unmarried,Student,Clothing,1,2090.0,5,2090.0
+CID0627,Male,26-35,Uttar Pradesh,Married,Govt Employee,Electronics,2,20190.0,4,40380.0
+CID0628,Female,26-35,Gujarat,Married,Business Owner,Jewellery,1,10030.0,3,10030.0
+CID0629,Male,18-25,Karnataka,Married,Student,Toys & Games,5,1370.0,3,6850.0
+CID0630,Male,26-35,Delhi,Married,Business Owner,Food & Sweets,3,1010.0,4,3030.0
+CID0631,Female,36-45,Gujarat,Unmarried,IT Professional,Toys & Games,5,1240.0,4,6200.0
+CID0632,Female,26-35,Rajasthan,Married,Govt Employee,Electronics,4,12160.0,5,48640.0
+CID0633,Male,36-45,Uttar Pradesh,Married,Homemaker,Home Decor,5,4310.0,5,21550.0
+CID0634,Male,36-45,Uttar Pradesh,Married,Healthcare,Clothing,5,2800.0,5,14000.0
+CID0635,Male,55+,Rajasthan,Married,IT Professional,Electronics,4,18170.0,5,72680.0
+CID0636,Male,26-35,Gujarat,Married,Teacher,Home Decor,2,3400.0,5,6800.0
+CID0637,Male,26-35,Madhya Pradesh,Married,Govt Employee,Beauty & Personal Care,5,2140.0,4,10700.0
+CID0638,Male,18-25,Rajasthan,Unmarried,Student,Electronics,1,17550.0,4,17550.0
+CID0639,Male,55+,Madhya Pradesh,Married,Homemaker,Clothing,5,1920.0,5,9600.0
+CID0640,Male,55+,Rajasthan,Married,Homemaker,Electronics,1,15900.0,4,15900.0
+CID0641,Male,26-35,Maharashtra,Married,Teacher,Clothing,4,3260.0,4,13040.0
+CID0642,Male,46-55,Uttar Pradesh,Unmarried,Govt Employee,Beauty & Personal Care,5,2000.0,5,10000.0
+CID0643,Male,26-35,West Bengal,Married,Healthcare,Home Decor,4,3830.0,5,15320.0
+CID0644,Male,36-45,Gujarat,Married,IT Professional,Home Decor,4,4960.0,4,19840.0
+CID0645,Male,18-25,Uttar Pradesh,Married,Homemaker,Toys & Games,2,1100.0,5,2200.0
+CID0646,Female,36-45,Delhi,Married,Homemaker,Electronics,5,15430.0,4,77150.0
+CID0647,Female,18-25,Madhya Pradesh,Married,Student,Home Decor,1,4970.0,5,4970.0
+CID0648,Female,46-55,Karnataka,Unmarried,Govt Employee,Home Decor,1,4960.0,3,4960.0
+CID0649,Female,36-45,Delhi,Unmarried,Healthcare,Food & Sweets,5,1000.0,5,5000.0
+CID0650,Male,36-45,Delhi,Married,IT Professional,Sports,2,4160.0,3,8320.0
+CID0651,Male,18-25,Maharashtra,Unmarried,IT Professional,Toys & Games,2,930.0,5,1860.0
+CID0652,Male,26-35,Delhi,Unmarried,Homemaker,Clothing,2,3480.0,3,6960.0
+CID0653,Female,26-35,Delhi,Married,Business Owner,Jewellery,1,7650.0,4,7650.0
+CID0654,Female,26-35,Uttar Pradesh,Married,Healthcare,Electronics,4,12640.0,4,50560.0
+CID0655,Male,18-25,Rajasthan,Married,Govt Employee,Electronics,2,13370.0,4,26740.0
+CID0656,Male,55+,Delhi,Married,IT Professional,Electronics,1,15520.0,4,15520.0
+CID0657,Male,36-45,West Bengal,Unmarried,Healthcare,Clothing,1,2250.0,4,2250.0
+CID0658,Male,26-35,Tamil Nadu,Unmarried,Business Owner,Home Decor,4,3350.0,5,13400.0
+CID0659,Female,26-35,Maharashtra,Unmarried,IT Professional,Food & Sweets,5,650.0,5,3250.0
+CID0660,Female,26-35,Gujarat,Unmarried,Homemaker,Beauty & Personal Care,5,1410.0,3,7050.0
+CID0661,Male,36-45,Delhi,Married,Business Owner,Home Decor,2,4050.0,5,8100.0
+CID0662,Female,26-35,Tamil Nadu,Married,Student,Home Decor,2,3690.0,3,7380.0
+CID0663,Female,46-55,Maharashtra,Unmarried,Business Owner,Electronics,4,14660.0,4,58640.0
+CID0664,Male,26-35,Gujarat,Married,Healthcare,Electronics,2,19460.0,4,38920.0
+CID0665,Male,55+,Gujarat,Unmarried,Healthcare,Home Decor,4,4950.0,4,19800.0
+CID0666,Male,46-55,Maharashtra,Unmarried,Homemaker,Home Decor,1,4570.0,4,4570.0
+CID0667,Male,26-35,Uttar Pradesh,Unmarried,IT Professional,Jewellery,2,7720.0,5,15440.0
+CID0668,Male,55+,Gujarat,Unmarried,Healthcare,Electronics,1,19430.0,4,19430.0
+CID0669,Male,18-25,Rajasthan,Married,Student,Electronics,3,12320.0,4,36960.0
+CID0670,Male,46-55,Maharashtra,Unmarried,Student,Home Decor,4,2810.0,4,11240.0
+CID0671,Male,26-35,Gujarat,Unmarried,Govt Employee,Clothing,3,2440.0,5,7320.0
+CID0672,Female,46-55,Delhi,Married,Healthcare,Electronics,2,20190.0,5,40380.0
+CID0673,Male,46-55,Rajasthan,Unmarried,Homemaker,Toys & Games,1,1080.0,5,1080.0
+CID0674,Male,46-55,Maharashtra,Married,IT Professional,Electronics,2,11260.0,5,22520.0
+CID0675,Male,36-45,Tamil Nadu,Unmarried,Business Owner,Food & Sweets,3,640.0,5,1920.0
+CID0676,Female,26-35,Maharashtra,Married,Healthcare,Clothing,2,3470.0,5,6940.0
+CID0677,Male,18-25,Delhi,Married,IT Professional,Electronics,5,18110.0,4,90550.0
+CID0678,Male,26-35,Uttar Pradesh,Married,Teacher,Clothing,3,2260.0,5,6780.0
+CID0679,Female,18-25,Uttar Pradesh,Unmarried,Student,Jewellery,2,9150.0,4,18300.0
+CID0680,Female,36-45,Karnataka,Married,Student,Clothing,1,2810.0,5,2810.0
+CID0681,Female,26-35,Maharashtra,Married,Govt Employee,Toys & Games,2,1470.0,5,2940.0
+CID0682,Male,55+,West Bengal,Married,Govt Employee,Electronics,1,13300.0,5,13300.0
+CID0683,Male,36-45,Uttar Pradesh,Unmarried,Teacher,Toys & Games,5,1670.0,4,8350.0
+CID0684,Female,46-55,Delhi,Married,Govt Employee,Clothing,2,2370.0,5,4740.0
+CID0685,Female,18-25,Maharashtra,Married,Homemaker,Food & Sweets,5,1000.0,5,5000.0
+CID0686,Female,46-55,Uttar Pradesh,Unmarried,Govt Employee,Home Decor,3,2500.0,3,7500.0
+CID0687,Female,55+,Uttar Pradesh,Married,IT Professional,Beauty & Personal Care,1,1500.0,4,1500.0
+CID0688,Male,26-35,Delhi,Unmarried,IT Professional,Clothing,3,2450.0,5,7350.0
+CID0689,Female,36-45,Karnataka,Married,Business Owner,Electronics,1,17020.0,5,17020.0
+CID0690,Male,36-45,Delhi,Unmarried,Teacher,Electronics,5,11370.0,3,56850.0
+CID0691,Male,18-25,Karnataka,Married,Govt Employee,Jewellery,4,10660.0,3,42640.0
+CID0692,Male,26-35,Karnataka,Married,Govt Employee,Home Decor,2,3060.0,3,6120.0
+CID0693,Male,26-35,Uttar Pradesh,Unmarried,Govt Employee,Toys & Games,5,1490.0,3,7450.0
+CID0694,Male,18-25,Delhi,Married,Business Owner,Clothing,1,3360.0,5,3360.0
+CID0695,Male,26-35,Madhya Pradesh,Unmarried,Business Owner,Clothing,1,2870.0,5,2870.0
+CID0696,Female,18-25,Karnataka,Married,Healthcare,Electronics,1,19390.0,5,19390.0
+CID0697,Male,18-25,Gujarat,Married,Business Owner,Sports,1,3690.0,4,3690.0
+CID0698,Female,18-25,Maharashtra,Married,Business Owner,Food & Sweets,2,790.0,5,1580.0
+CID0699,Male,55+,Rajasthan,Unmarried,IT Professional,Beauty & Personal Care,3,2020.0,4,6060.0
+CID0700,Male,26-35,Rajasthan,Married,Teacher,Clothing,4,2340.0,4,9360.0
+CID0701,Male,55+,Karnataka,Married,Govt Employee,Food & Sweets,2,930.0,4,1860.0
+CID0702,Male,26-35,Punjab,Married,IT Professional,Food & Sweets,1,1040.0,3,1040.0
+CID0703,Male,26-35,Uttar Pradesh,Married,Student,Clothing,2,2510.0,4,5020.0
+CID0704,Male,26-35,Uttar Pradesh,Married,Student,Jewellery,5,7540.0,4,37700.0
+CID0705,Male,26-35,Rajasthan,Unmarried,Business Owner,Beauty & Personal Care,1,1600.0,3,1600.0
+CID0706,Female,18-25,West Bengal,Married,Business Owner,Beauty & Personal Care,4,2030.0,3,8120.0
+CID0707,Male,36-45,Uttar Pradesh,Unmarried,Homemaker,Toys & Games,1,1730.0,5,1730.0
+CID0708,Female,26-35,Maharashtra,Married,IT Professional,Clothing,4,2840.0,3,11360.0
+CID0709,Male,36-45,Uttar Pradesh,Unmarried,Healthcare,Clothing,4,3070.0,5,12280.0
+CID0710,Female,36-45,Maharashtra,Unmarried,Student,Sports,3,4270.0,3,12810.0
+CID0711,Female,18-25,Rajasthan,Married,Business Owner,Electronics,3,11680.0,5,35040.0
+CID0712,Female,18-25,Karnataka,Unmarried,Business Owner,Toys & Games,2,1060.0,5,2120.0
+CID0713,Male,36-45,Delhi,Married,Govt Employee,Toys & Games,2,1520.0,5,3040.0
+CID0714,Male,26-35,Delhi,Unmarried,Homemaker,Food & Sweets,4,1090.0,5,4360.0
+CID0715,Male,18-25,Uttar Pradesh,Unmarried,Business Owner,Sports,1,4160.0,4,4160.0
+CID0716,Female,55+,Maharashtra,Married,Govt Employee,Clothing,5,2580.0,4,12900.0
+CID0717,Female,18-25,Gujarat,Married,Student,Clothing,5,1930.0,4,9650.0
+CID0718,Female,36-45,Punjab,Married,Teacher,Electronics,1,15750.0,3,15750.0
+CID0719,Male,55+,West Bengal,Married,Business Owner,Home Decor,1,3100.0,3,3100.0
+CID0720,Female,26-35,Uttar Pradesh,Married,Teacher,Clothing,3,2330.0,5,6990.0
+CID0721,Female,18-25,Tamil Nadu,Married,Govt Employee,Clothing,5,3290.0,4,16450.0
+CID0722,Male,18-25,West Bengal,Married,IT Professional,Jewellery,4,6080.0,5,24320.0
+CID0723,Male,26-35,West Bengal,Unmarried,IT Professional,Beauty & Personal Care,2,2040.0,5,4080.0
+CID0724,Female,18-25,Delhi,Married,Business Owner,Electronics,3,15630.0,5,46890.0
+CID0725,Female,36-45,Delhi,Married,IT Professional,Clothing,5,2940.0,5,14700.0
+CID0726,Female,18-25,Maharashtra,Unmarried,IT Professional,Beauty & Personal Care,1,1160.0,5,1160.0
+CID0727,Male,26-35,Uttar Pradesh,Married,Healthcare,Electronics,5,14550.0,3,72750.0
+CID0728,Female,55+,Maharashtra,Married,Healthcare,Electronics,4,11580.0,4,46320.0
+CID0729,Male,46-55,Maharashtra,Married,Homemaker,Electronics,3,22040.0,5,66120.0
+CID0730,Male,36-45,Karnataka,Unmarried,IT Professional,Food & Sweets,1,1080.0,5,1080.0
+CID0731,Male,26-35,Rajasthan,Unmarried,IT Professional,Electronics,4,16020.0,5,64080.0
+CID0732,Female,36-45,Delhi,Married,IT Professional,Sports,2,2640.0,4,5280.0
+CID0733,Female,26-35,Uttar Pradesh,Unmarried,Homemaker,Home Decor,3,5060.0,5,15180.0
+CID0734,Male,26-35,Madhya Pradesh,Married,Teacher,Home Decor,4,3410.0,3,13640.0
+CID0735,Male,18-25,Madhya Pradesh,Unmarried,Business Owner,Clothing,4,2070.0,3,8280.0
+CID0736,Female,46-55,West Bengal,Unmarried,IT Professional,Home Decor,1,4030.0,4,4030.0
+CID0737,Male,26-35,Punjab,Unmarried,Business Owner,Food & Sweets,2,1160.0,4,2320.0
+CID0738,Female,18-25,Karnataka,Married,Govt Employee,Toys & Games,4,840.0,4,3360.0
+CID0739,Male,26-35,Madhya Pradesh,Married,Govt Employee,Toys & Games,3,1070.0,4,3210.0
+CID0740,Male,26-35,Uttar Pradesh,Married,Student,Food & Sweets,4,1160.0,4,4640.0
+CID0741,Male,46-55,Delhi,Unmarried,Homemaker,Beauty & Personal Care,5,1260.0,4,6300.0
+CID0742,Male,36-45,Maharashtra,Married,IT Professional,Jewellery,3,6320.0,5,18960.0
+CID0743,Female,36-45,Maharashtra,Unmarried,IT Professional,Toys & Games,3,1390.0,5,4170.0
+CID0744,Male,18-25,Uttar Pradesh,Unmarried,Teacher,Electronics,4,20840.0,3,83360.0
+CID0745,Male,26-35,Gujarat,Married,Govt Employee,Electronics,1,16230.0,4,16230.0
+CID0746,Female,26-35,West Bengal,Unmarried,IT Professional,Electronics,3,22430.0,5,67290.0
+CID0747,Male,18-25,Karnataka,Unmarried,IT Professional,Food & Sweets,5,990.0,4,4950.0
+CID0748,Male,26-35,Uttar Pradesh,Unmarried,IT Professional,Clothing,1,1900.0,4,1900.0
+CID0749,Female,36-45,West Bengal,Unmarried,Govt Employee,Clothing,1,3740.0,5,3740.0
+CID0750,Female,18-25,Gujarat,Unmarried,Homemaker,Beauty & Personal Care,1,1540.0,5,1540.0
+CID0751,Male,26-35,Delhi,Married,Govt Employee,Beauty & Personal Care,3,1390.0,3,4170.0
+CID0752,Female,26-35,Gujarat,Unmarried,Business Owner,Beauty & Personal Care,1,1720.0,4,1720.0
+CID0753,Female,18-25,Maharashtra,Married,Student,Clothing,4,2360.0,4,9440.0
+CID0754,Male,26-35,Delhi,Unmarried,Business Owner,Food & Sweets,1,620.0,4,620.0
+CID0755,Male,55+,Tamil Nadu,Unmarried,Healthcare,Clothing,5,1750.0,4,8750.0
+CID0756,Female,46-55,Maharashtra,Married,Healthcare,Electronics,2,15900.0,4,31800.0
+CID0757,Female,55+,Delhi,Unmarried,IT Professional,Electronics,5,20540.0,4,102700.0
+CID0758,Male,26-35,Tamil Nadu,Married,Homemaker,Clothing,3,2890.0,5,8670.0
+CID0759,Female,18-25,Rajasthan,Married,Business Owner,Home Decor,1,5250.0,5,5250.0
+CID0760,Female,26-35,Uttar Pradesh,Married,Teacher,Jewellery,1,7440.0,5,7440.0
+CID0761,Male,26-35,Uttar Pradesh,Unmarried,Business Owner,Electronics,4,13870.0,5,55480.0
+CID0762,Male,46-55,Uttar Pradesh,Unmarried,Teacher,Toys & Games,1,990.0,3,990.0
+CID0763,Male,18-25,Gujarat,Unmarried,Homemaker,Home Decor,5,2910.0,5,14550.0
+CID0764,Female,26-35,Delhi,Married,Govt Employee,Clothing,3,2320.0,4,6960.0
+CID0765,Male,18-25,Uttar Pradesh,Unmarried,Business Owner,Home Decor,2,4670.0,4,9340.0
+CID0766,Female,26-35,Madhya Pradesh,Unmarried,Teacher,Clothing,1,3560.0,5,3560.0
+CID0767,Female,36-45,Karnataka,Married,Healthcare,Food & Sweets,2,1180.0,5,2360.0
+CID0768,Female,26-35,Maharashtra,Married,IT Professional,Home Decor,1,3100.0,5,3100.0
+CID0769,Male,26-35,Karnataka,Married,Homemaker,Electronics,3,21080.0,3,63240.0
+CID0770,Female,26-35,Gujarat,Unmarried,Govt Employee,Electronics,5,14440.0,5,72200.0
+CID0771,Male,26-35,Uttar Pradesh,Unmarried,IT Professional,Home Decor,3,2770.0,5,8310.0
+CID0772,Female,36-45,Maharashtra,Unmarried,Business Owner,Beauty & Personal Care,2,2090.0,4,4180.0
+CID0773,Male,46-55,West Bengal,Married,Govt Employee,Clothing,1,3020.0,3,3020.0
+CID0774,Male,55+,Delhi,Unmarried,Homemaker,Toys & Games,2,1000.0,4,2000.0
+CID0775,Female,36-45,Karnataka,Married,Govt Employee,Food & Sweets,5,840.0,5,4200.0
+CID0776,Male,26-35,Delhi,Married,Healthcare,Beauty & Personal Care,3,1390.0,4,4170.0
+CID0777,Male,36-45,Uttar Pradesh,Unmarried,IT Professional,Jewellery,2,10320.0,4,20640.0
+CID0778,Female,26-35,Uttar Pradesh,Married,Govt Employee,Home Decor,2,3720.0,4,7440.0
+CID0779,Female,26-35,Delhi,Unmarried,Govt Employee,Food & Sweets,5,1190.0,4,5950.0
+CID0780,Female,46-55,Maharashtra,Married,Govt Employee,Beauty & Personal Care,1,1120.0,5,1120.0
+CID0781,Female,18-25,Uttar Pradesh,Unmarried,IT Professional,Clothing,2,2460.0,4,4920.0
+CID0782,Male,46-55,West Bengal,Married,IT Professional,Clothing,5,2710.0,5,13550.0
+CID0783,Male,26-35,Punjab,Married,Business Owner,Electronics,1,16540.0,5,16540.0
+CID0784,Male,36-45,West Bengal,Married,Govt Employee,Jewellery,1,7620.0,5,7620.0
+CID0785,Male,36-45,Tamil Nadu,Married,Business Owner,Jewellery,3,10270.0,4,30810.0
+CID0786,Female,46-55,Maharashtra,Unmarried,Govt Employee,Electronics,5,21000.0,3,105000.0
+CID0787,Female,36-45,Madhya Pradesh,Married,Healthcare,Food & Sweets,1,1160.0,4,1160.0
+CID0788,Male,36-45,Maharashtra,Unmarried,Healthcare,Home Decor,3,4700.0,4,14100.0
+CID0789,Male,18-25,Madhya Pradesh,Unmarried,Business Owner,Electronics,4,20710.0,4,82840.0
+CID0790,Female,26-35,Punjab,Married,Govt Employee,Sports,5,3420.0,5,17100.0
+CID0791,Male,18-25,Rajasthan,Married,IT Professional,Electronics,4,20410.0,4,81640.0
+CID0792,Female,36-45,Punjab,Unmarried,Teacher,Electronics,1,14140.0,4,14140.0
+CID0793,Male,26-35,Karnataka,Unmarried,IT Professional,Food & Sweets,5,820.0,4,4100.0
+CID0794,Female,36-45,Maharashtra,Unmarried,Govt Employee,Toys & Games,3,1140.0,4,3420.0
+CID0795,Male,18-25,Delhi,Married,Govt Employee,Electronics,1,16110.0,5,16110.0
+CID0796,Female,18-25,Karnataka,Unmarried,Govt Employee,Food & Sweets,5,740.0,4,3700.0
+CID0797,Female,36-45,Uttar Pradesh,Married,IT Professional,Home Decor,5,5140.0,4,25700.0
+CID0798,Female,18-25,Gujarat,Unmarried,Homemaker,Electronics,4,14250.0,5,57000.0
+CID0799,Female,18-25,Punjab,Unmarried,IT Professional,Electronics,1,11680.0,4,11680.0
+CID0800,Female,18-25,Maharashtra,Married,Student,Home Decor,3,3930.0,4,11790.0
+CID0801,Female,55+,West Bengal,Married,IT Professional,Clothing,3,1860.0,4,5580.0
+CID0802,Male,36-45,Tamil Nadu,Married,IT Professional,Beauty & Personal Care,1,1180.0,4,1180.0
+CID0803,Female,26-35,Madhya Pradesh,Married,Healthcare,Jewellery,1,7000.0,3,7000.0
+CID0804,Female,26-35,Madhya Pradesh,Unmarried,IT Professional,Sports,2,3210.0,3,6420.0
+CID0805,Male,26-35,Karnataka,Married,Healthcare,Clothing,4,2620.0,5,10480.0
+CID0806,Female,36-45,Punjab,Married,Business Owner,Sports,1,4020.0,3,4020.0
+CID0807,Female,36-45,Rajasthan,Married,IT Professional,Home Decor,1,4520.0,5,4520.0
+CID0808,Female,18-25,Uttar Pradesh,Unmarried,Teacher,Clothing,2,2600.0,5,5200.0
+CID0809,Male,18-25,Delhi,Unmarried,Govt Employee,Electronics,2,14500.0,4,29000.0
+CID0810,Male,18-25,Rajasthan,Married,Healthcare,Electronics,5,14300.0,4,71500.0
+CID0811,Female,36-45,Maharashtra,Married,IT Professional,Food & Sweets,3,1060.0,3,3180.0
+CID0812,Female,36-45,Gujarat,Unmarried,Healthcare,Home Decor,4,2600.0,5,10400.0
+CID0813,Male,26-35,Gujarat,Unmarried,IT Professional,Clothing,5,1780.0,5,8900.0
+CID0814,Female,18-25,Uttar Pradesh,Married,Business Owner,Food & Sweets,1,1070.0,5,1070.0
+CID0815,Female,18-25,Karnataka,Married,Homemaker,Clothing,2,2700.0,3,5400.0
+CID0816,Male,55+,Rajasthan,Married,Teacher,Food & Sweets,3,640.0,5,1920.0
+CID0817,Female,26-35,Karnataka,Married,Healthcare,Clothing,5,2220.0,3,11100.0
+CID0818,Male,36-45,Uttar Pradesh,Married,Homemaker,Jewellery,3,11570.0,4,34710.0
+CID0819,Male,36-45,Uttar Pradesh,Unmarried,Healthcare,Jewellery,2,11100.0,4,22200.0
+CID0820,Male,26-35,Delhi,Married,IT Professional,Home Decor,5,4440.0,3,22200.0
+CID0821,Female,26-35,Madhya Pradesh,Unmarried,Govt Employee,Clothing,5,2710.0,4,13550.0
+CID0822,Male,18-25,Maharashtra,Married,Govt Employee,Clothing,3,2790.0,5,8370.0
+CID0823,Male,36-45,Gujarat,Unmarried,Govt Employee,Jewellery,2,11840.0,5,23680.0
+CID0824,Male,36-45,Maharashtra,Unmarried,Govt Employee,Clothing,1,3680.0,5,3680.0
+CID0825,Male,36-45,Maharashtra,Married,Business Owner,Electronics,5,13080.0,4,65400.0
+CID0826,Female,26-35,West Bengal,Married,IT Professional,Electronics,1,20230.0,5,20230.0
+CID0827,Male,18-25,Rajasthan,Unmarried,Student,Home Decor,2,3000.0,3,6000.0
+CID0828,Male,55+,Uttar Pradesh,Married,IT Professional,Home Decor,5,3050.0,4,15250.0
+CID0829,Female,36-45,Delhi,Married,Govt Employee,Jewellery,5,9930.0,4,49650.0
+CID0830,Male,26-35,Uttar Pradesh,Married,Business Owner,Clothing,1,2560.0,4,2560.0
+CID0831,Male,55+,Karnataka,Unmarried,Homemaker,Clothing,4,3610.0,4,14440.0
+CID0832,Male,36-45,Gujarat,Married,Homemaker,Jewellery,1,6170.0,4,6170.0
+CID0833,Male,36-45,Uttar Pradesh,Unmarried,Student,Jewellery,1,8870.0,4,8870.0
+CID0834,Male,36-45,Maharashtra,Married,IT Professional,Clothing,4,3590.0,5,14360.0
+CID0835,Male,46-55,Delhi,Unmarried,Business Owner,Home Decor,2,4980.0,4,9960.0
+CID0836,Male,36-45,Tamil Nadu,Married,IT Professional,Clothing,2,2060.0,5,4120.0
+CID0837,Female,18-25,Punjab,Unmarried,Govt Employee,Beauty & Personal Care,5,1490.0,5,7450.0
+CID0838,Male,26-35,Uttar Pradesh,Married,Business Owner,Electronics,3,17930.0,4,53790.0
+CID0839,Female,55+,Rajasthan,Unmarried,IT Professional,Beauty & Personal Care,3,1240.0,5,3720.0
+CID0840,Female,26-35,Delhi,Unmarried,Govt Employee,Food & Sweets,5,1180.0,3,5900.0
+CID0841,Male,26-35,Delhi,Married,Teacher,Home Decor,3,5010.0,5,15030.0
+CID0842,Female,26-35,Rajasthan,Married,Teacher,Electronics,1,12500.0,4,12500.0
+CID0843,Male,26-35,Tamil Nadu,Married,Govt Employee,Home Decor,1,2790.0,5,2790.0
+CID0844,Female,36-45,Madhya Pradesh,Married,IT Professional,Clothing,4,1920.0,5,7680.0
+CID0845,Male,55+,Karnataka,Unmarried,IT Professional,Electronics,4,21410.0,5,85640.0
+CID0846,Male,26-35,Delhi,Married,Govt Employee,Food & Sweets,5,680.0,5,3400.0
+CID0847,Male,18-25,West Bengal,Married,Teacher,Sports,5,3100.0,4,15500.0
+CID0848,Female,18-25,Maharashtra,Unmarried,IT Professional,Home Decor,5,3710.0,4,18550.0
+CID0849,Male,46-55,Karnataka,Married,Homemaker,Toys & Games,1,1420.0,4,1420.0
+CID0850,Female,36-45,Delhi,Married,IT Professional,Electronics,3,11360.0,4,34080.0
+CID0851,Male,26-35,Gujarat,Married,Teacher,Clothing,5,2200.0,4,11000.0
+CID0852,Female,46-55,Maharashtra,Unmarried,Govt Employee,Electronics,5,21680.0,5,108400.0
+CID0853,Male,46-55,Maharashtra,Unmarried,Homemaker,Food & Sweets,1,1140.0,4,1140.0
+CID0854,Female,46-55,Tamil Nadu,Unmarried,Govt Employee,Beauty & Personal Care,1,1990.0,5,1990.0
+CID0855,Male,46-55,Uttar Pradesh,Married,Student,Food & Sweets,1,570.0,5,570.0
+CID0856,Male,26-35,Karnataka,Unmarried,IT Professional,Electronics,3,14420.0,4,43260.0
+CID0857,Male,36-45,Maharashtra,Married,IT Professional,Clothing,5,3010.0,5,15050.0
+CID0858,Male,26-35,Uttar Pradesh,Married,Teacher,Home Decor,2,3220.0,4,6440.0
+CID0859,Female,46-55,Uttar Pradesh,Married,Healthcare,Clothing,2,3570.0,5,7140.0
+CID0860,Male,36-45,Uttar Pradesh,Married,Healthcare,Jewellery,5,9660.0,4,48300.0
+CID0861,Female,36-45,Tamil Nadu,Married,Student,Jewellery,5,6060.0,4,30300.0
+CID0862,Male,36-45,Maharashtra,Married,Homemaker,Food & Sweets,5,1140.0,4,5700.0
+CID0863,Male,18-25,Madhya Pradesh,Married,IT Professional,Clothing,5,3670.0,4,18350.0
+CID0864,Male,26-35,Karnataka,Married,Govt Employee,Clothing,3,1910.0,4,5730.0
+CID0865,Male,55+,Delhi,Unmarried,Govt Employee,Electronics,2,16890.0,4,33780.0
+CID0866,Female,55+,Karnataka,Married,Student,Clothing,4,2360.0,4,9440.0
+CID0867,Male,18-25,Karnataka,Unmarried,Govt Employee,Clothing,2,2540.0,5,5080.0
+CID0868,Male,18-25,Rajasthan,Married,IT Professional,Food & Sweets,2,670.0,4,1340.0
+CID0869,Female,18-25,Maharashtra,Unmarried,Student,Food & Sweets,1,930.0,4,930.0
+CID0870,Female,36-45,Delhi,Married,Homemaker,Electronics,5,22000.0,5,110000.0
+CID0871,Male,46-55,Tamil Nadu,Married,Govt Employee,Clothing,5,2760.0,5,13800.0
+CID0872,Male,26-35,Madhya Pradesh,Married,IT Professional,Electronics,5,11490.0,5,57450.0
+CID0873,Female,26-35,Tamil Nadu,Unmarried,IT Professional,Electronics,1,17940.0,4,17940.0
+CID0874,Male,46-55,Delhi,Unmarried,Govt Employee,Jewellery,3,7780.0,3,23340.0
+CID0875,Male,36-45,West Bengal,Married,Govt Employee,Electronics,3,20770.0,4,62310.0
+CID0876,Male,26-35,Delhi,Married,Student,Clothing,4,2620.0,4,10480.0
+CID0877,Female,36-45,Karnataka,Unmarried,Student,Electronics,3,12810.0,5,38430.0
+CID0878,Female,26-35,Maharashtra,Unmarried,Student,Jewellery,3,6820.0,4,20460.0
+CID0879,Male,26-35,Karnataka,Married,Govt Employee,Home Decor,5,4600.0,5,23000.0
+CID0880,Male,36-45,Maharashtra,Married,Healthcare,Clothing,2,2280.0,4,4560.0
+CID0881,Male,36-45,Maharashtra,Married,IT Professional,Home Decor,3,4600.0,5,13800.0
+CID0882,Female,46-55,Tamil Nadu,Unmarried,Business Owner,Toys & Games,3,1040.0,3,3120.0
+CID0883,Male,36-45,Maharashtra,Married,Homemaker,Sports,1,2870.0,5,2870.0
+CID0884,Male,36-45,Uttar Pradesh,Unmarried,IT Professional,Clothing,4,2680.0,5,10720.0
+CID0885,Female,18-25,Uttar Pradesh,Married,IT Professional,Beauty & Personal Care,1,2180.0,5,2180.0
+CID0886,Male,26-35,Madhya Pradesh,Married,Healthcare,Beauty & Personal Care,5,2170.0,3,10850.0
+CID0887,Female,18-25,Karnataka,Married,Govt Employee,Beauty & Personal Care,2,1300.0,4,2600.0
+CID0888,Male,26-35,Delhi,Unmarried,Student,Food & Sweets,4,790.0,5,3160.0
+CID0889,Male,36-45,West Bengal,Unmarried,IT Professional,Food & Sweets,1,660.0,3,660.0
+CID0890,Male,55+,West Bengal,Married,Student,Clothing,3,2770.0,3,8310.0
+CID0891,Female,18-25,Maharashtra,Unmarried,Govt Employee,Toys & Games,3,1280.0,4,3840.0
+CID0892,Female,26-35,Gujarat,Married,IT Professional,Home Decor,4,4970.0,4,19880.0
+CID0893,Female,46-55,Rajasthan,Married,Student,Food & Sweets,3,1160.0,4,3480.0
+CID0894,Male,26-35,Gujarat,Married,Govt Employee,Home Decor,1,3520.0,3,3520.0
+CID0895,Female,36-45,Uttar Pradesh,Married,Govt Employee,Toys & Games,1,1310.0,4,1310.0
+CID0896,Male,36-45,Tamil Nadu,Married,IT Professional,Jewellery,3,11340.0,4,34020.0
+CID0897,Male,36-45,Karnataka,Unmarried,IT Professional,Electronics,3,20180.0,4,60540.0
+CID0898,Female,18-25,Maharashtra,Married,Govt Employee,Jewellery,5,5620.0,3,28100.0
+CID0899,Male,26-35,Delhi,Unmarried,IT Professional,Home Decor,2,3350.0,4,6700.0
+CID0900,Male,36-45,Uttar Pradesh,Married,Healthcare,Jewellery,4,8300.0,5,33200.0
+CID0901,Male,36-45,Uttar Pradesh,Unmarried,IT Professional,Home Decor,1,3090.0,5,3090.0
+CID0902,Male,18-25,Rajasthan,Married,Business Owner,Clothing,4,2150.0,5,8600.0
+CID0903,Male,36-45,Uttar Pradesh,Married,IT Professional,Beauty & Personal Care,5,1100.0,5,5500.0
+CID0904,Female,18-25,Delhi,Married,Govt Employee,Clothing,1,3040.0,4,3040.0
+CID0905,Male,36-45,Karnataka,Married,Teacher,Jewellery,5,7280.0,5,36400.0
+CID0906,Female,26-35,Uttar Pradesh,Unmarried,IT Professional,Home Decor,5,2600.0,4,13000.0
+CID0907,Female,55+,Punjab,Married,Teacher,Home Decor,3,3100.0,5,9300.0
+CID0908,Male,26-35,Maharashtra,Unmarried,IT Professional,Clothing,4,3350.0,4,13400.0
+CID0909,Male,26-35,Maharashtra,Married,Homemaker,Food & Sweets,4,1100.0,5,4400.0
+CID0910,Male,18-25,Maharashtra,Married,Business Owner,Clothing,3,2720.0,4,8160.0
+CID0911,Female,26-35,Maharashtra,Married,Healthcare,Electronics,4,15490.0,3,61960.0
+CID0912,Male,46-55,Uttar Pradesh,Unmarried,Business Owner,Clothing,3,3710.0,5,11130.0
+CID0913,Female,55+,Rajasthan,Unmarried,Business Owner,Electronics,1,12910.0,3,12910.0
+CID0914,Male,26-35,Madhya Pradesh,Married,IT Professional,Sports,5,2620.0,4,13100.0
+CID0915,Female,26-35,Maharashtra,Married,IT Professional,Sports,5,2800.0,3,14000.0
+CID0916,Male,36-45,Gujarat,Married,Healthcare,Clothing,4,2100.0,4,8400.0
+CID0917,Male,46-55,Rajasthan,Unmarried,Govt Employee,Toys & Games,2,1200.0,3,2400.0
+CID0918,Female,36-45,West Bengal,Unmarried,Govt Employee,Clothing,5,3570.0,5,17850.0
+CID0919,Female,26-35,Delhi,Married,Homemaker,Food & Sweets,3,950.0,4,2850.0
+CID0920,Male,26-35,Maharashtra,Married,Govt Employee,Jewellery,2,8240.0,4,16480.0
+CID0921,Female,36-45,Maharashtra,Married,Teacher,Beauty & Personal Care,2,2170.0,4,4340.0
+CID0922,Male,18-25,Rajasthan,Unmarried,Homemaker,Clothing,5,1850.0,5,9250.0
+CID0923,Female,36-45,West Bengal,Married,Student,Toys & Games,5,1040.0,5,5200.0
+CID0924,Female,26-35,Maharashtra,Unmarried,Healthcare,Clothing,5,2880.0,5,14400.0
+CID0925,Male,36-45,Delhi,Married,IT Professional,Sports,3,3580.0,5,10740.0
+CID0926,Male,18-25,Tamil Nadu,Unmarried,Govt Employee,Electronics,2,10970.0,5,21940.0
+CID0927,Male,36-45,West Bengal,Unmarried,Business Owner,Food & Sweets,4,820.0,5,3280.0
+CID0928,Male,26-35,Punjab,Unmarried,Govt Employee,Food & Sweets,3,980.0,5,2940.0
+CID0929,Female,36-45,Rajasthan,Unmarried,Homemaker,Food & Sweets,1,1010.0,4,1010.0
+CID0930,Male,18-25,Delhi,Unmarried,Healthcare,Electronics,5,18160.0,5,90800.0
+CID0931,Male,36-45,Karnataka,Married,Business Owner,Beauty & Personal Care,2,1430.0,4,2860.0
+CID0932,Female,36-45,Gujarat,Married,Govt Employee,Electronics,3,11620.0,5,34860.0
+CID0933,Female,36-45,Uttar Pradesh,Married,Teacher,Food & Sweets,1,830.0,5,830.0
+CID0934,Male,36-45,Karnataka,Unmarried,Business Owner,Clothing,3,2010.0,5,6030.0
+CID0935,Male,36-45,Rajasthan,Married,Business Owner,Clothing,3,3650.0,5,10950.0
+CID0936,Male,46-55,Uttar Pradesh,Unmarried,Govt Employee,Home Decor,4,3780.0,3,15120.0
+CID0937,Male,26-35,West Bengal,Unmarried,Healthcare,Clothing,4,2380.0,3,9520.0
+CID0938,Female,46-55,Karnataka,Married,Student,Electronics,3,19700.0,4,59100.0
+CID0939,Male,26-35,Madhya Pradesh,Married,Homemaker,Electronics,1,16480.0,5,16480.0
+CID0940,Female,18-25,Uttar Pradesh,Married,Homemaker,Clothing,2,2370.0,5,4740.0
+CID0941,Male,18-25,Maharashtra,Married,Govt Employee,Toys & Games,2,1620.0,5,3240.0
+CID0942,Female,26-35,Gujarat,Married,Business Owner,Beauty & Personal Care,5,2090.0,5,10450.0
+CID0943,Female,36-45,Maharashtra,Married,Healthcare,Electronics,5,18580.0,5,92900.0
+CID0944,Female,36-45,Rajasthan,Unmarried,Govt Employee,Clothing,2,1840.0,5,3680.0
+CID0945,Male,36-45,Rajasthan,Unmarried,Homemaker,Electronics,3,17300.0,5,51900.0
+CID0946,Male,26-35,Uttar Pradesh,Married,Teacher,Electronics,3,19660.0,5,58980.0
+CID0947,Male,26-35,Karnataka,Married,Student,Food & Sweets,4,650.0,5,2600.0
+CID0948,Female,18-25,Karnataka,Married,Homemaker,Food & Sweets,4,710.0,4,2840.0
+CID0949,Female,26-35,Delhi,Unmarried,Homemaker,Electronics,5,21090.0,5,105450.0
+CID0950,Female,26-35,Madhya Pradesh,Unmarried,Healthcare,Clothing,2,1790.0,4,3580.0
+CID0951,Female,18-25,West Bengal,Married,Govt Employee,Electronics,3,19530.0,4,58590.0
+CID0952,Female,26-35,Gujarat,Married,IT Professional,Jewellery,2,8630.0,5,17260.0
+CID0953,Male,36-45,Rajasthan,Unmarried,Business Owner,Sports,1,3170.0,4,3170.0
+CID0954,Female,36-45,Delhi,Unmarried,Student,Electronics,2,10590.0,5,21180.0
+CID0955,Male,55+,Madhya Pradesh,Married,Business Owner,Clothing,1,3390.0,4,3390.0
+CID0956,Male,55+,Gujarat,Unmarried,Homemaker,Jewellery,4,7900.0,4,31600.0
+CID0957,Male,36-45,Rajasthan,Married,Govt Employee,Beauty & Personal Care,4,1700.0,4,6800.0
+CID0958,Male,26-35,Tamil Nadu,Married,Student,Clothing,5,3100.0,3,15500.0
+CID0959,Male,36-45,Maharashtra,Unmarried,IT Professional,Electronics,2,18930.0,4,37860.0
+CID0960,Female,36-45,West Bengal,Unmarried,Homemaker,Electronics,2,21970.0,4,43940.0
+CID0961,Male,18-25,Maharashtra,Married,Business Owner,Food & Sweets,1,900.0,4,900.0
+CID0962,Female,26-35,Delhi,Unmarried,IT Professional,Clothing,4,2550.0,4,10200.0
+CID0963,Male,46-55,Maharashtra,Married,Govt Employee,Electronics,1,21940.0,4,21940.0
+CID0964,Male,26-35,Punjab,Unmarried,Homemaker,Food & Sweets,4,970.0,5,3880.0
+CID0965,Male,36-45,Tamil Nadu,Married,Business Owner,Electronics,1,14080.0,3,14080.0
+CID0966,Male,36-45,Rajasthan,Unmarried,IT Professional,Toys & Games,4,960.0,5,3840.0
+CID0967,Female,18-25,Rajasthan,Unmarried,Teacher,Clothing,1,3440.0,5,3440.0
+CID0968,Male,26-35,Karnataka,Married,Homemaker,Electronics,4,14850.0,4,59400.0
+CID0969,Female,26-35,Madhya Pradesh,Unmarried,Teacher,Food & Sweets,1,980.0,5,980.0
+CID0970,Male,18-25,Karnataka,Unmarried,Business Owner,Clothing,2,2690.0,5,5380.0
+CID0971,Female,18-25,Delhi,Unmarried,Business Owner,Sports,5,2580.0,5,12900.0
+CID0972,Female,46-55,Uttar Pradesh,Married,Healthcare,Home Decor,1,4130.0,4,4130.0
+CID0973,Female,26-35,West Bengal,Unmarried,Business Owner,Clothing,5,1870.0,5,9350.0
+CID0974,Male,26-35,Rajasthan,Unmarried,Homemaker,Toys & Games,2,1240.0,5,2480.0
+CID0975,Male,26-35,Delhi,Married,Govt Employee,Clothing,2,2840.0,4,5680.0
+CID0976,Male,55+,Uttar Pradesh,Unmarried,Business Owner,Beauty & Personal Care,4,1570.0,4,6280.0
+CID0977,Female,26-35,West Bengal,Married,IT Professional,Clothing,5,3250.0,4,16250.0
+CID0978,Male,26-35,Uttar Pradesh,Married,IT Professional,Home Decor,3,4770.0,5,14310.0
+CID0979,Male,46-55,Rajasthan,Married,IT Professional,Electronics,4,19750.0,4,79000.0
+CID0980,Female,46-55,Punjab,Married,IT Professional,Home Decor,5,2560.0,5,12800.0
+CID0981,Male,18-25,Delhi,Unmarried,Teacher,Jewellery,1,6840.0,3,6840.0
+CID0982,Female,46-55,Maharashtra,Married,Govt Employee,Jewellery,1,9030.0,5,9030.0
+CID0983,Male,26-35,Rajasthan,Unmarried,Student,Clothing,2,3620.0,4,7240.0
+CID0984,Male,26-35,West Bengal,Married,Healthcare,Clothing,3,3420.0,4,10260.0
+CID0985,Female,18-25,Karnataka,Married,Business Owner,Jewellery,1,10990.0,4,10990.0
+CID0986,Male,18-25,Madhya Pradesh,Married,IT Professional,Beauty & Personal Care,5,1410.0,3,7050.0
+CID0987,Female,36-45,Uttar Pradesh,Married,Homemaker,Electronics,5,15650.0,3,78250.0
+CID0988,Male,26-35,Karnataka,Unmarried,Student,Home Decor,1,3770.0,4,3770.0
+CID0989,Male,26-35,Rajasthan,Unmarried,Homemaker,Clothing,5,2060.0,4,10300.0
+CID0990,Female,36-45,Tamil Nadu,Unmarried,Homemaker,Jewellery,5,5800.0,5,29000.0
+CID0991,Female,36-45,Uttar Pradesh,Married,Teacher,Electronics,2,21860.0,5,43720.0
+CID0992,Female,18-25,West Bengal,Married,Student,Electronics,3,13390.0,4,40170.0
+CID0993,Male,36-45,Karnataka,Married,Govt Employee,Toys & Games,2,1070.0,3,2140.0
+CID0994,Female,18-25,Delhi,Married,Student,Electronics,3,11500.0,4,34500.0
+CID0995,Male,36-45,Uttar Pradesh,Married,IT Professional,Home Decor,5,5050.0,5,25250.0
+CID0996,Male,36-45,Tamil Nadu,Unmarried,Healthcare,Home Decor,3,4070.0,4,12210.0
+CID0997,Female,55+,Uttar Pradesh,Married,IT Professional,Clothing,5,3080.0,3,15400.0
+CID0998,Male,18-25,Maharashtra,Unmarried,Govt Employee,Clothing,5,3570.0,4,17850.0
+CID0999,Female,18-25,Maharashtra,Married,Homemaker,Home Decor,2,3420.0,5,6840.0
+CID1000,Male,26-35,Tamil Nadu,Married,Student,Electronics,2,17960.0,4,35920.0
